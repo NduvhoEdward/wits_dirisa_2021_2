@@ -1,0 +1,1027 @@
+,District,Sub-District,Vaccination Site Name,Type of site,Pfizer or J&J,Start Date,Site Active (Yes/No),Open Days per week,Capacity per day
+0,C Hani DM,Enoch Mgijima LM,ec Lizo Ngcana Clinic,Clinic,Pfizer,7/19/2021,To start next week,5 days,80.0
+1,C Hani DM,Enoch Mgijima LM,ec Lesseyton Clinic,Clinic,Pfizer,7/19/2021,To start next week,5 days,80.0
+2,O Tambo DM,King Sabata Dalindyebo LM,ec SOS Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+3,O Tambo DM,King Sabata Dalindyebo LM,ec Ntshele Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+4,O Tambo DM,King Sabata Dalindyebo LM,ec Sangoni Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+5,O Tambo DM,King Sabata Dalindyebo LM,ec Qokolweni Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+6,O Tambo DM,King Sabata Dalindyebo LM,ec Maxwele Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+7,O Tambo DM,King Sabata Dalindyebo LM,ec Mpeko Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+8,O Tambo DM,King Sabata Dalindyebo LM,ec Ngqwarha Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+9,O Tambo DM,King Sabata Dalindyebo LM,ec Ngcengane Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+10,O Tambo DM,King Sabata Dalindyebo LM,ec Tabase Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+11,O Tambo DM,King Sabata Dalindyebo LM,ec Qunu Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+12,O Tambo DM,King Sabata Dalindyebo LM,ec Xhwili Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+13,O Tambo DM,King Sabata Dalindyebo LM,ec Upper Xongora Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+14,O Tambo DM,King Sabata Dalindyebo LM,ec Mpunzana Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+15,O Tambo DM,King Sabata Dalindyebo LM,ec Mahlungulu Clinic (KSD),Clinic,J&J,6/16/2021,Yes,5 days,40.0
+16,O Tambo DM,King Sabata Dalindyebo LM,ec Bityi Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+17,O Tambo DM,King Sabata Dalindyebo LM,ec Mqhekezweni Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+18,O Tambo DM,King Sabata Dalindyebo LM,ec Tyelebana Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+19,O Tambo DM,King Sabata Dalindyebo LM,ec Sakhela Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+20,O Tambo DM,King Sabata Dalindyebo LM,ec Sitebe Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+21,Buffalo City MM,Buffalo City SD,ec Welcomewood Clinic,Clinic,Pfizer,6/28/2021,Yes,5 days,40.0
+22,Buffalo City MM,Buffalo City SD,ec Zanempilo Clinic (East London),Clinic,Pfizer,5/27/2021,Yes,5 days,40.0
+23,Buffalo City MM,Buffalo City SD,ec Zanempilo Clinic (Zwelitsha),Clinic,Pfizer,6/29/2021,Yes,5 days,40.0
+24,Buffalo City MM,Buffalo City SD,ec Zikhova Clinic,Clinic,Pfizer,6/11/2021,Yes,5 days,40.0
+25,Amathole DM,Raymond Mhlaba LM,ec Mgwalana Clinic,Clinic,J&J,7/27/2021,To start next week,5 days,40.0
+26,A Nzo DM,Matatiele LM,ec Matatiele Community Clinic,Clinic,Pfizer,7/19/2021,To start next week,5 days,80.0
+27,A Nzo DM,Matatiele LM,ec Mount Hargreaves Clinic,Clinic,J&J,7/19/2021,To start next week,5 days,40.0
+28,A Nzo DM,Matatiele LM,ec Rolweni Clinic,Clinic,J&J,7/26/2021,To start next week,5 days,40.0
+29,A Nzo DM,Matatiele LM,ec Nyaniso Clinic,Clinic,J&J,7/26/2021,To start next week,5 days,40.0
+30,A Nzo DM,Matatiele LM,ec Mvenyane Clinic,Clinic,J&J,7/26/2021,To start next week,5 days,40.0
+31,A Nzo DM,Matatiele LM,ec Elukholweni Clinic,Clinic,J&J,7/26/2021,To start next week,5 days,40.0
+32,O Tambo DM,King Sabata Dalindyebo LM,ec Hlabatshane Clinic,Clinic,J&J,6/16/2021,Yes,5 days,40.0
+33,Amathole DM,Amahlathi LM,ec Mgwali Clinic,Clinic,J&J,6/23/2021,Yes,5 days,40.0
+34,Amathole DM,Great Kei LM,ec Mooiplaas Clinic,Clinic,J&J,6/14/2021,Yes,5 days,40.0
+35,Amathole DM,Mbhashe LM,ec Mpame Clinic,Clinic,J&J,7/21/2021,To start next week,5 days,40.0
+36,Amathole DM,Mbhashe LM,ec Mpozolo Clinic,Clinic,J&J,7/27/2021,To start next week,5 days,40.0
+37,Amathole DM,Mnquma LM,ec Mqambeli Clinic,Clinic,J&J,7/2/2020,Yes,5 days,40.0
+38,Amathole DM,Mbhashe LM,ec Mqhele Clinic,Clinic,J&J,7/19/2021,To start next week,5 days,40.0
+39,Amathole DM,Mbhashe LM,ec Msendo Clinic,Clinic,J&J,To be determined,To start next week,5 days,40.0
+40,Amathole DM,Raymond Mhlaba LM,ec Msobomvu Clinic,Clinic,J&J,7/22/2021,To start next week,5 days,40.0
+41,Amathole DM,Ngqushwa LM,ec Mtombe Clinic,Clinic,J&J,7/6/2020,Yes,5 days,40.0
+42,Amathole DM,Ngqushwa LM,ec Mtyholo Clinic,Clinic,J&J,7/7/2020,Yes,5 days,40.0
+43,Amathole DM,Raymond Mhlaba LM,ec Mxhelo Clinic,Clinic,J&J,7/6/2021,Yes,5 days,40.0
+44,Amathole DM,Raymond Mhlaba LM,ec Mzamomhle Clinic (Bedford),Clinic,J&J,7/20/2021,To start next week,5 days,40.0
+45,Amathole DM,Mnquma LM,ec Ncizele Clinic,Clinic,J&J,7/8/2020,Yes,5 days,40.0
+46,Amathole DM,Ngqushwa LM,ec Ndwayana Clinic,Clinic,J&J,6/10/2021,Yes,5 days,40.0
+47,Buffalo City MM,Buffalo City SD,ec Zingisa NU 5 Clinic,Clinic,Pfizer,5/17/2021,Yes,5 days,40.0
+48,Amathole DM,Raymond Mhlaba LM,ec Newtown Clinic,Clinic,J&J,7/27/2021,To start next week,5 days,40.0
+49,A Nzo DM,Umzimvubu LM,ec Mount Ayliff Gateway Clinic,Clinic,Pfizer,2021-07-19 00:00:00,To start next week,5 days,80.0
+50,A Nzo DM,Umzimvubu LM,ec Dundee Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+51,A Nzo DM,Umzimvubu LM,ec Tela Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+52,A Nzo DM,Umzimvubu LM,ec Lubaleko Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+53,A Nzo DM,Ntabankulu LM,ec Mfundisweni Clinic,Clinic,J&J,2021-07-21 00:00:00,To start next week,5 days,40.0
+54,A Nzo DM,Ntabankulu LM,ec Ntshentshe Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+55,A Nzo DM,Mbizana LM,ec Amantshangase Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+56,Sarah Baartman DM,Ndlambe LM,ec Port Alfred Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+57,Sarah Baartman DM,Ndlambe LM,ec Station Hill Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+58,Sarah Baartman DM,Ndlambe LM,ec Pal 2 Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+59,Sarah Baartman DM,Ndlambe LM,ec Nkwenkwezi Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+60,Sarah Baartman DM,Ndlambe LM,ec Pal 1 Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+61,Sarah Baartman DM,Dr B NaudÂ‚ LM,ec Brug Straat Clinic (Jansenville),Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+62,Sarah Baartman DM,Dr B NaudÂ‚ LM,ec Wongalethu Clinic,Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+63,Sarah Baartman DM,Dr B NaudÂ‚ LM,ec Baviaans Clinic,Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+64,Sarah Baartman DM,Makana LM,ec Anglo African Street Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+65,Sarah Baartman DM,Makana LM,ec Middle Terrace Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+66,Sarah Baartman DM,Makana LM,ec Raglan Road Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+67,Sarah Baartman DM,Makana LM,ec Virginia Shumane Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+68,Sarah Baartman DM,Makana LM,ec Joza Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+69,Sarah Baartman DM,Makana LM,ec NG Dlukulu Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+70,Sarah Baartman DM,Makana LM,ec Raymond Mhlaba Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+71,Sarah Baartman DM,Makana LM,ec Kwa-Nonzwakazi Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,80.0
+72,Sarah Baartman DM,Ndlambe LM,ec Alexandria Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+73,Sarah Baartman DM,Ndlambe LM,ec Kwa-Nonqubela Clinic,Clinic,J&J,2021-08-02 00:00:00,To start next week,5 days,80.0
+74,A Nzo DM,Ntabankulu LM,ec Matubeni Clinic,Clinic,J&J,2021-07-21 00:00:00,To start next week,5 days,40.0
+75,O Tambo DM,Mhlontlo LM,ec Mdyobe Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+76,A Nzo DM,Ntabankulu LM,ec Dungu Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+77,O Tambo DM,Mhlontlo LM,ec Mbalisweni Clinic,Clinic,J&J,2021-06-23 00:00:00,Yes,5 days,40.0
+78,O Tambo DM,Mhlontlo LM,ec Tina Falls Clinic,Clinic,J&J,2021-06-23 00:00:00,Yes,5 days,40.0
+79,O Tambo DM,Ingquza Hill LM,ec Mantlaneni Clinic,Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+80,O Tambo DM,Mhlontlo LM,ec Ngwemnyama Clinic,Clinic,J&J,2021-06-23 00:00:00,Yes,5 days,40.0
+81,Amathole DM,Mnquma LM,ec Ngqusi Clinic,Clinic,J&J,2020-07-12 00:00:00,Yes,5 days,40.0
+82,Amathole DM,Ngqushwa LM,ec Nier Clinic,Clinic,J&J,2021-06-21 00:00:00,Yes,5 days,40.0
+83,Amathole DM,Raymond Mhlaba LM,ec Njwaxa Clinic,Clinic,J&J,2021-07-27 00:00:00,To start next week,5 days,40.0
+84,Amathole DM,Mbhashe LM,ec Nkanya Clinic,Clinic,J&J,2021-07-12 00:00:00,Yes,5 days,40.0
+85,Amathole DM,Ngqushwa LM,ec Norah Clinic,Clinic,J&J,2021-06-15 00:00:00,Yes,5 days,40.0
+86,Amathole DM,Mnquma LM,ec Nozuko Clinic,Clinic,J&J,2020-07-02 00:00:00,Yes,5 days,40.0
+87,Amathole DM,Mbhashe LM,ec Nqabara Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+88,Amathole DM,Mbhashe LM,ec Nqabeni Clinic,Clinic,J&J,2021-06-23 00:00:00,Yes,5 days,40.0
+89,Buffalo City MM,Buffalo City SD,ec Zwelitsha Zone 5 Clinic,Clinic,Pfizer,2021-05-18 00:00:00,Yes,5 days,40.0
+90,Amathole DM,Mbhashe LM,ec Nqadu Clinic (Mbhashe),Clinic,J&J,2021-06-30 00:00:00,Yes,5 days,40.0
+91,Amathole DM,Amahlathi LM,ec Ntaba ka Ndoda Clinic,Clinic,J&J,2021-06-17 00:00:00,Yes,5 days,40.0
+92,O Tambo DM,Nyandeni LM,ec St Barnabas Gateway Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,40.0
+93,O Tambo DM,Nyandeni LM,ec Mampondomiseni Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,40.0
+94,O Tambo DM,Nyandeni LM,ec Libode Clinic,Clinic,J&J,2021-06-07 00:00:00,Yes,5 days,40.0
+95,O Tambo DM,Nyandeni LM,ec Nontsikelelo Biko Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,40.0
+96,O Tambo DM,Nyandeni LM,ec Mgwenyane Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,40.0
+97,O Tambo DM,Nyandeni LM,ec Nkanga Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,40.0
+98,O Tambo DM,Nyandeni LM,ec Old Bunting Clinic,Clinic,J&J,2021-06-07 00:00:00,Yes,5 days,40.0
+99,O Tambo DM,Nyandeni LM,ec Ndanya Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,40.0
+100,O Tambo DM,Nyandeni LM,ec Cwele Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+101,O Tambo DM,Nyandeni LM,ec Maqanyeni Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+102,O Tambo DM,Nyandeni LM,ec Nyandeni Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+103,O Tambo DM,Nyandeni LM,ec Double Falls Clinic,Clinic,J&J,2021-06-07 00:00:00,Yes,5 days,40.0
+104,O Tambo DM,Nyandeni LM,ec Mangcwanguleni Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+105,O Tambo DM,Ingquza Hill LM,ec St Elizabeth's Gateway Clinic,Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+106,O Tambo DM,Ingquza Hill LM,ec Lusikisiki Village Clinic (Qaukeni),Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+107,O Tambo DM,Port St Johns LM,ec Mzintlava Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+108,O Tambo DM,Ingquza Hill LM,ec Palmerton Clinic,Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+109,O Tambo DM,Ingquza Hill LM,ec Magwa Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+110,O Tambo DM,Ingquza Hill LM,ec KTC Clinic,Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+111,O Tambo DM,Ingquza Hill LM,ec Mpoza Clinic (Lusikisiki),Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+112,O Tambo DM,Ingquza Hill LM,ec Malangeni Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+113,O Tambo DM,Ingquza Hill LM,ec Xurana Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+114,O Tambo DM,Port St Johns LM,ec Buchele Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+115,O Tambo DM,Ingquza Hill LM,ec Mbotyi Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+116,O Tambo DM,Ingquza Hill LM,ec Khanyayo (Holy Cross) Clinic,Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,40.0
+117,Joe Gqabi DM,Walter Sisulu LM,ec Poly Clinic,Clinic,J&J,2021-05-17 00:00:00,Yes,5 days,80.0
+118,Joe Gqabi DM,Walter Sisulu LM,ec Aliwal North Block H Clinic,Clinic,J&J,2021-06-09 00:00:00,Yes,5 days,80.0
+119,O Tambo DM,Mhlontlo LM,ec St Lucy's Gateway Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+120,O Tambo DM,Mhlontlo LM,ec Ezingcuka Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+121,Joe Gqabi DM,Elundini LM,ec St Augustine's Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+122,O Tambo DM,Mhlontlo LM,ec Langeni Clinic,Clinic,J&J,2021-06-23 00:00:00,Yes,5 days,40.0
+123,Joe Gqabi DM,Elundini LM,ec Ngxaza Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+124,O Tambo DM,Mhlontlo LM,ec Mjika Clinic,Clinic,J&J,2021-06-23 00:00:00,Yes,5 days,40.0
+125,O Tambo DM,Mhlontlo LM,ec Mhlahlane Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+126,Joe Gqabi DM,Elundini LM,ec Queen Noti Clinic,Clinic,J&J,2021-07-09 00:00:00,Yes,5 days,80.0
+127,Joe Gqabi DM,Elundini LM,ec Ncembu Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+128,Joe Gqabi DM,Elundini LM,ec Umnga Flats Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+129,C Hani DM,Engcobo LM,ec Mgudu Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+130,A Nzo DM,Mbizana LM,ec St Patrick's Gateway Clinic,Clinic,Pfizer,2021-07-19 00:00:00,To start next week,5 days,40.0
+131,A Nzo DM,Mbizana LM,ec Qasa Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+132,A Nzo DM,Mbizana LM,ec Imizizi Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+133,A Nzo DM,Mbizana LM,ec Tsawana Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+134,A Nzo DM,Mbizana LM,ec Isikelo Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+135,A Nzo DM,Mbizana LM,ec Hlamandana Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+136,A Nzo DM,Mbizana LM,ec Mpetsheni Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+137,A Nzo DM,Mbizana LM,ec Ndela Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+138,A Nzo DM,Mbizana LM,ec Qobo Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+139,A Nzo DM,Mbizana LM,ec Mfundambini Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+140,A Nzo DM,Mbizana LM,ec Meje Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+141,A Nzo DM,Mbizana LM,ec Kanyayo (Bizana) Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+142,A Nzo DM,Mbizana LM,ec Daliwonga Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+143,A Nzo DM,Mbizana LM,ec Amandengane Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+144,C Hani DM,Enoch Mgijima LM,ec Sterkstroom Clinic,Clinic,Pfizer,2021-07-12 00:00:00,Yes,5 days,80.0
+145,C Hani DM,Enoch Mgijima LM,ec Masakhe Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+146,Joe Gqabi DM,Walter Sisulu LM,ec Khayamnandi Clinic,Clinic,J&J,2021-05-25 00:00:00,Yes,5 days,80.0
+147,C Hani DM,Enoch Mgijima LM,ec Eluxolweni Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+148,C Hani DM,Enoch Mgijima LM,ec Hofmeyer Clinic,Clinic,Pfizer,2021-07-19 00:00:00,To start next week,5 days,80.0
+149,Joe Gqabi DM,Walter Sisulu LM,ec Venterstad Clinic,Clinic,J&J,2021-05-26 00:00:00,Yes,5 days,80.0
+150,Amathole DM,Mbhashe LM,ec Nyhwara Clinic,Clinic,J&J,2021-06-13 00:00:00,Yes,5 days,40.0
+151,Amathole DM,Ngqushwa LM,ec Peddie Extension Clinic,Clinic,J&J,2021-06-15 00:00:00,Yes,5 days,40.0
+152,Amathole DM,Raymond Mhlaba LM,ec Perksdale Clinic,Clinic,J&J,2021-07-09 00:00:00,Yes,5 days,40.0
+153,Amathole DM,Amahlathi LM,ec Philani Clinic (King William's Town),Clinic,J&J,2021-06-15 00:00:00,Yes,5 days,40.0
+154,Amathole DM,Ngqushwa LM,ec Pikholi Clinic,Clinic,J&J,2021-06-10 00:00:00,Yes,5 days,40.0
+155,Sarah Baartman DM,Sundays River Valley LM,ec Kirkwood Clinic,Clinic,Pfizer,2020-07-05 00:00:00,Yes,5 days,80.0
+156,Sarah Baartman DM,Sundays River Valley LM,ec Bergsig Clinic,Clinic,Pfizer,2020-07-22 00:00:00,To start next week,5 days,80.0
+157,Sarah Baartman DM,Sundays River Valley LM,ec Moses Mabida Clinic,Clinic,Pfizer,2020-07-05 00:00:00,Yes,5 days,80.0
+158,Sarah Baartman DM,Sundays River Valley LM,ec Lukhanyiso Clinic,Clinic,Pfizer,2020-07-05 00:00:00,Yes,5 days,80.0
+159,Sarah Baartman DM,Sundays River Valley LM,ec Addo Clinic,Clinic,Pfizer,2020-07-05 00:00:00,Yes,5 days,80.0
+160,Sarah Baartman DM,Sundays River Valley LM,ec Kwazenzele Clinic,Clinic,Pfizer,2020-07-05 00:00:00,Yes,5 days,80.0
+161,Amathole DM,Raymond Mhlaba LM,ec Qibira Clinic,Clinic,J&J,2021-07-21 00:00:00,To start next week,5 days,40.0
+162,Amathole DM,Mnquma LM,ec Qina Clinic,Clinic,J&J,2020-07-07 00:00:00,Yes,5 days,40.0
+163,Amathole DM,Mbhashe LM,ec Qwaninga Clinic,Clinic,J&J,2021-07-25 00:00:00,To start next week,5 days,40.0
+164,Amathole DM,Amahlathi LM,ec Rabula Clinic,Clinic,J&J,2021-06-22 00:00:00,Yes,5 days,40.0
+165,O Tambo DM,King Sabata Dalindyebo LM,ec Centuli Clinic,Clinic,J&J,2021-06-16 00:00:00,Yes,5 days,40.0
+166,Amathole DM,Ngqushwa LM,ec Robert Mbelekana Clinic,Clinic,J&J,2021-06-10 00:00:00,Yes,5 days,40.0
+167,Amathole DM,Raymond Mhlaba LM,ec Rwarwa Clinic,Clinic,J&J,2021-07-21 00:00:00,To start next week,5 days,40.0
+168,Amathole DM,Raymond Mhlaba LM,ec Sheshegu Clinic,Clinic,J&J,2021-07-22 00:00:00,To start next week,5 days,40.0
+169,Amathole DM,Mbhashe LM,ec Soga Clinic,Clinic,J&J,2021-07-01 00:00:00,Yes,5 days,40.0
+170,Amathole DM,Great Kei LM,ec Soto Clinic,Clinic,J&J,2021-06-07 00:00:00,Yes,5 days,40.0
+171,Amathole DM,Amahlathi LM,ec St Matthew's Clinic,Clinic,J&J,2020-07-02 00:00:00,Yes,5 days,40.0
+172,Amathole DM,Amahlathi LM,ec Stutterheim Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,40.0
+173,Amathole DM,Mbhashe LM,ec Sundwana Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+174,Joe Gqabi DM,Elundini LM,ec Bethania Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+175,Joe Gqabi DM,Elundini LM,ec Seqhobong Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+176,Joe Gqabi DM,Elundini LM,ec Tayler Bequest Gateway Clinic (Elundini),Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+177,Joe Gqabi DM,Elundini LM,ec Ulundi Clinic,Clinic,J&J,2021-07-19 00:00:00,Electricity problems,5 days,80.0
+178,A Nzo DM,Matatiele LM,ec Isilindini Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+179,A Nzo DM,Matatiele LM,ec Umtumase Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+180,Joe Gqabi DM,Elundini LM,ec Kungisizwe Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+181,Joe Gqabi DM,Elundini LM,ec Mangoloaneng Clinic,Clinic,J&J,2021-07-09 00:00:00,Yes,5 days,80.0
+182,A Nzo DM,Umzimvubu LM,ec Machibini Clinic (Kwabhaca),Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+183,A Nzo DM,Umzimvubu LM,ec Luyengweni Clinic,Clinic,J&J,2021-07-30 00:00:00,To start next week,5 days,40.0
+184,A Nzo DM,Matatiele LM,ec Paballong Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+185,Joe Gqabi DM,Elundini LM,ec Lower Tsitsana Clinic,Clinic,J&J,2021-07-19 00:00:00,Active on 19th,5 days,80.0
+186,A Nzo DM,Matatiele LM,ec Thabachicha Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+187,A Nzo DM,Matatiele LM,ec Magadla Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+188,A Nzo DM,Matatiele LM,ec Shepherds Hope Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+189,A Nzo DM,Matatiele LM,ec Afsondering Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+190,A Nzo DM,Matatiele LM,ec Queen's Mercy Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+191,A Nzo DM,Matatiele LM,ec Likhetlane Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+192,A Nzo DM,Matatiele LM,ec Madlangala Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+193,A Nzo DM,Matatiele LM,ec Mzongwana Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+194,A Nzo DM,Matatiele LM,ec Mpharane Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+195,Joe Gqabi DM,Senqu LM,ec Umlamli Gateway Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,80.0
+196,Joe Gqabi DM,Senqu LM,ec Hillside Clinic (Senqu),Clinic,J&J,2021-07-05 00:00:00,Yes,5 days,80.0
+197,Joe Gqabi DM,Senqu LM,ec Musong Clinic,Clinic,J&J,2021-07-29 00:00:00,To start next week,5 days,80.0
+198,Joe Gqabi DM,Senqu LM,ec Pelandaba Clinic,Clinic,J&J,2021-07-12 00:00:00,Yes,5 days,80.0
+199,Joe Gqabi DM,Senqu LM,ec Palmietfontein Clinic,Clinic,J&J,2021-06-28 00:00:00,Yes,5 days,80.0
+200,Amathole DM,Mbhashe LM,ec Taleni Clinic,Clinic,J&J,2021-07-13 00:00:00,Yes,5 days,40.0
+201,Amathole DM,Raymond Mhlaba LM,ec Thozamile Madakana Clinic,Clinic,J&J,2021-07-27 00:00:00,To start next week,5 days,40.0
+202,Amathole DM,Ngqushwa LM,ec Tyata Clinic,Clinic,J&J,2021-06-17 00:00:00,Yes,5 days,40.0
+203,Amathole DM,Raymond Mhlaba LM,ec Upper Ncera Clinic,Clinic,J&J,2021-07-20 00:00:00,To start next week,5 days,40.0
+204,Amathole DM,Mbhashe LM,ec Vukukhanye Gateway Clinic,Clinic,J&J,2021-06-21 00:00:00,Yes,5 days,40.0
+205,Amathole DM,Raymond Mhlaba LM,ec War Memorial Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+206,Amathole DM,Amahlathi LM,ec Wartburg Clinic,Clinic,J&J,2020-07-26 00:00:00,To start next week,5 days,40.0
+207,Amathole DM,Raymond Mhlaba LM,ec Washington Clinic,Clinic,J&J,2021-06-07 00:00:00,Yes,5 days,40.0
+208,Amathole DM,Ngqushwa LM,ec Wesley Clinic,Clinic,J&J,2021-06-09 00:00:00,Yes,5 days,40.0
+209,Amathole DM,Amahlathi LM,ec Zalara Clinic,Clinic,J&J,2020-07-09 00:00:00,Yes,5 days,40.0
+210,Amathole DM,Mnquma LM,ec Zazulwana Clinic,Clinic,J&J,2020-07-15 00:00:00,Yes,5 days,40.0
+211,N Mandela Bay MM,N Mandela B SD,ec Masakhane Clinic (N Mandela Metro),Clinic,Pfizer,2021-06-22 00:00:00,Yes,5 days,80.0
+212,C Hani DM,Inxuba Yethemba LM,ec Middelburg Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+213,C Hani DM,Inxuba Yethemba LM,ec Kwanonzame New Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+214,C Hani DM,Inxuba Yethemba LM,ec Kwanonzame Old Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+215,C Hani DM,Inxuba Yethemba LM,ec Midros Clinic,Clinic,Pfizer,2021-07-26 00:00:00,To start next week,5 days,80.0
+216,Sarah Baartman DM,Dr B NaudÂ‚ LM,ec Willowmore Clinic,Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+217,Sarah Baartman DM,Dr B NaudÂ‚ LM,ec Rietbron Clinic,Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+218,Sarah Baartman DM,Kou-Kamma LM,ec Misgund Clinic,Clinic,Pfizer,2020-07-22 00:00:00,To start next week,5 days,80.0
+219,Sarah Baartman DM,Kou-Kamma LM,ec Louterwater Clinic,Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+220,Sarah Baartman DM,Kou-Kamma LM,ec Krakeel Clinic,Clinic,J&J,2020-07-22 00:00:00,To start next week,5 days,80.0
+221,O Tambo DM,King Sabata Dalindyebo LM,ec Zitulele Gateway Clinic,Clinic,J&J,2021-06-16 00:00:00,Yes,5 days,40.0
+222,O Tambo DM,King Sabata Dalindyebo LM,ec Nzulwini Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+223,Amathole DM,Raymond Mhlaba LM,ec Zigodlo Clinic,Clinic,J&J,2021-07-26 00:00:00,To start next week,5 days,40.0
+224,Amathole DM,Raymond Mhlaba LM,ec Zihlahleni Clinic,Clinic,J&J,2021-07-08 00:00:00,Yes,5 days,40.0
+225,O Tambo DM,King Sabata Dalindyebo LM,ec Zidindi Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+226,O Tambo DM,King Sabata Dalindyebo LM,ec Tshezi Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+227,O Tambo DM,King Sabata Dalindyebo LM,ec Mapuzi Clinic,Clinic,J&J,2021-07-19 00:00:00,To start next week,5 days,40.0
+228,Sarah Baartman DM,Kouga LM,ec Settlers day Hospital,Hospital,J&J,2021-07-09 00:00:00,Yes,5 days,
+0,Cape Town MM,CT Western SD,4 Dorp Street City Centre,Temporary Outreach Site,J&J,2021-07-01 00:00:00,yes,5 days,500
+1,Cape Town MM,CT Western SD,Alexandra Hospital,Primary vaccination site,Pfizer,2021-07-06 00:00:00,yes,5 days,300
+2,Cape Town MM,CT Khayelitsha SD,Andile MsiziCommunity Hall,Temporary Outreach Site,Pfizer,2021-01-07 00:00:00,yes,5 days,400
+3,Cape Town MM,CT Mitch Plain SD,Beaconvale Frail Care Centre,Temporary Outreach Site,Pfizer,2021-05-31 00:00:00,yes,5 days,250
+4,Cape Town MM,CT Tygerberg SD,Bishop Lavis CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,100
+5,Cape Town MM,CT Northern SD,Bothasig CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,50
+6,Cape Town MM,CT Western SD,Brooklyn Chest Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,300
+7,Cape Town MM,CT Tygerberg SD,CCT Adriaanse Clinic,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+8,Cape Town MM,CT Northern SD,CCT Brackenfell Hall,Temporary Outreach site,Pfizer,2021-05-17 00:00:00,yes,5 days,300
+9,Cape Town MM,CT Tygerberg SD,CCT Chestnut Satellite Clinic,Temporary Outreach site,Pfizer,2021-05-24 00:00:00,yes,4 days,100
+10,Cape Town MM,CT Eastern SD,CCT Eerste River Clinic,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,200
+11,Cape Town MM,CT Eastern SD,CCT Ikhwezi CDC,Primary vaccination site,Pfizer,2021-06-02 00:00:00,yes,5 days,150
+12,Cape Town MM,CT Khayelitsha SD,CCT Kuyasa Public Library,Temporary Outreach site,Pfizer,2021-05-24 00:00:00,yes,5 days,150
+13,Cape Town MM,CT Southern SD,CCT Ocean View Civic Centre,Temporary Outreach site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+14,Cape Town MM,CT Klipfontein SD,CCT Ruimte Road Satellite Clinic,Temporary Outreach site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+15,Cape Town MM,CT Eastern SD,CCT Sarepta Clinic,Primary vaccination site,Pfizer,2021-06-03 00:00:00,yes,5 days,100
+16,Cape Town MM,CT Eastern SD,CCT Sir Lowry's Pass CDC,Primary vaccination site,Pfizer,2021-06-02 00:00:00,yes,5 days,100
+17,Cape Town MM,CT Mitch Plain SD,CCT Tafelsig Thusong Centre,Temporary Outreach site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+18,Cape Town MM,CT Eastern SD,Charles Morkel Hall,Temporary Outreach site,Pfizer,2021-07-01 00:00:00,yes,5 days,200
+19,Cape Town MM,CT Tygerberg SD,CPUT Bellville,Temporary Outreach Site,Pfizer,2021-07-06 00:00:00,yes,5 days,500
+20,Cape Town MM,CT Mitch Plain SD,Crossroads Hall,Temporary Outreach site,Pfizer,2021-07-05 00:00:00,yes,5 days,150
+21,Cape Town MM,CT Western SD,CTICC Vaccination Centre of Hope,Fixed Outreach site,Pfizer,2021-07-07 00:00:00,yes,5 days,4000
+22,Cape Town MM,CT Tygerberg SD,Delft CHC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,150
+23,Cape Town MM,CT Tygerberg SD,Disa Hall Tygerberg Hospital,Temporary Outreach Site,J&J,2021-09-06 00:00:00,yes,5 days,800
+24,Cape Town MM,CT Western SD,District Six CDC,Primary vaccination site,Pfizer,2021-01-06 00:00:00,yes,5 days,120
+25,Cape Town MM,CT Southern SD,Dominican Grimley School Hall,Temporary Outreach site,Pfizer,2021-06-09 00:00:00,yes,5 days,240
+26,Cape Town MM,CT Southern SD,DP Marais Hospital,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,350
+27,Cape Town MM,CT Western SD,Du Noon CHC,Primary vaccination site,Pfizer,2021-06-01 00:00:00,yes,5 days,100
+28,Cape Town MM,CT Northern SD,Durbanville CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,50
+29,Cape Town MM,CT Eastern SD,Eerste River Hospital,Primary vaccination site,Pfizer,2021-06-07 00:00:00,yes,5 days,200
+30,Cape Town MM,CT Tygerberg SD,Elsies River CHC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,150
+31,Cape Town MM,CT Southern SD,False Bay Hospital,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,240
+32,Cape Town MM,CT Eastern SD,Garden Village Hall Somerset West,Temporary Outreach site,Pfizer,2021-07-12 00:00:00,yes,5 days,150
+33,Cape Town MM,CT Tygerberg SD,Goodwood Hall,Temporary Outreach Site,Pfizer,2021-07-02 00:00:00,yes,5 days,500
+34,Cape Town MM,CT Klipfontein SD,Gugulethu CHC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,6 days,50
+35,Cape Town MM,CT Eastern SD,Gustrouw CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,150
+36,Cape Town MM,CT Klipfontein SD,Hanover Park CDC,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,150
+37,Cape Town MM,CT Klipfontein SD,Heideveld CHC,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,50
+38,Cape Town MM,CT Eastern SD,Helderberg Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,200
+39,Cape Town MM,CT Western SD,Hope Street Dental,Temporary Outreach Site,Pfizer,2021-05-24 00:00:00,yes,5 days,200
+40,Cape Town MM,CT Klipfontein SD,Ikhwezi Community Hall,Temporary Outreach Site,Pfizer,2021-05-07 00:00:00,yes,5 days,200
+41,Cape Town MM,CT Mitch Plain SD,Inzama Zabantu CDC,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,100
+42,Cape Town MM,CT Tygerberg SD,Karl Bremer Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,200
+43,Cape Town MM,CT Western SD,Kensington CDC,Primary vaccination site,Pfizer,2021-06-01 00:00:00,yes,5 days,100
+44,Cape Town MM,CT Klipfontein SD,Kewtown New Apostolic Church,Temporary Outreach Site,Pfizer,2021-05-17 00:00:00,yes,5 days,150
+45,Cape Town MM,CT Khayelitsha SD,Khayelitsha (Site B) CHC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+46,Cape Town MM,CT Khayelitsha SD,Khayelitsha Hospital,Primary vaccination site,Pfizer,2021-02-17 00:00:00,yes,5 days,200
+47,Cape Town MM,CT Eastern SD,Kleinvlei CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+48,Cape Town MM,CT Eastern SD,Kleinvlei Recreational Hall,Temporary Outreach site,Pfizer,2021-07-01 00:00:00,yes,5 days,400
+49,Cape Town MM,CT Southern SD,Lady Michaelis CDC,Primary vaccination site,Pfizer,2021-05-27 00:00:00,yes,5 days,210
+50,Cape Town MM,CT Southern SD,Lansdowne Library Hall,Temporary Outreach site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+51,Cape Town MM,CT Mitch Plain SD,Lentegeur Hospital Hall,Temporary Outreach Site,Pfizer,2021-05-17 00:00:00,yes,5 days,750
+52,Cape Town MM,CT Southern SD,Lotus River CDC,Primary vaccination site,Pfizer,2021-05-25 00:00:00,yes,5 days,140
+53,Cape Town MM,CT Eastern SD,Macassar CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,100
+54,Cape Town MM,CT Eastern SD,Macassar New Civic,Temporary Outreach site,Pfizer,2021-07-05 00:00:00,yes,5 days,200
+55,Cape Town MM,CT Western SD,Mamre CDC,Primary vaccination site,Pfizer,2021-05-28 00:00:00,yes,5 days,140
+56,Cape Town MM,CT Eastern SD,Mfuleni CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,100
+57,Cape Town MM,CT Khayelitsha SD,Michael Mapongwana CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,150
+58,Cape Town MM,CT Mitch Plain SD,Mitchells Plain CHC,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,6 days,50
+59,Cape Town MM,CT Klipfontein SD,New Apostolic Church,Temporary Outreach Site,Pfizer,2021-05-31 00:00:00,yes,5 days,200
+60,Cape Town MM,CT Western SD,New Somerset Hospital,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,200
+61,Cape Town MM,CT Khayelitsha SD,Nolungile CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,50
+62,Cape Town MM,CT Eastern SD,Nomzamo CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,30
+63,Cape Town MM,CT Eastern SD,Nomzamo Community Hall,Temporary Outreach site,Pfizer,2021-07-01 00:00:00,yes,2 days,200
+64,Cape Town MM,CT Klipfontein SD,Nyanga CDC,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,5 days,150
+65,Cape Town MM,CT Tygerberg SD,Ravensmead CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,50
+66,Cape Town MM,CT Tygerberg SD,Reed Street CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,50
+67,Cape Town MM,CT Southern SD,Retreat CHC,Primary vaccination site,Pfizer,2021-06-03 00:00:00,yes,5 days,240
+68,Cape Town MM,CT Western SD,Saxonsea Community Hall,Temporary Outreach Site,Pfizer,2021-07-06 00:00:00,yes,5 days,250
+69,Cape Town MM,CT Northern SD,Scottsdene CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,50
+70,Cape Town MM,CT Khayelitsha SD,Solomon Tshuku Hall,Temporary Outreach Site,Pfizer,2021-07-01 00:00:00,yes,5 days,300
+71,Cape Town MM,CT Eastern SD,Somerset West Civic - Town Hall,Temporary Outreach site,Pfizer,2021-07-12 00:00:00,yes,5 days,500
+72,Cape Town MM,CT Tygerberg SD,Stikland Hospital,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,0
+73,Cape Town MM,CT Eastern SD,Strand CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,5 days,20
+74,Cape Town MM,CT Tygerberg SD,Symphony Way CDC,Primary vaccination site,Pfizer,2021-05-24 00:00:00,yes,5 days,100
+75,Cape Town MM,CT Tygerberg SD,University of the Western Cape vaccine site,Temporary Outreach Site,Pfizer,2021-08-06 00:00:00,yes,5 days,300
+76,Cape Town MM,CT Western SD,Vanguard CHC,Primary vaccination site,Pfizer,2021-06-04 00:00:00,yes,5 days,100
+77,Cape Town MM,CT Western SD,West EMS Pinelands,Fixed Outreach site,J&J,2021-05-31 00:00:00,yes,5 days,500
+78,Cape Winelands,Breede Valley Municipality,De Doorns Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+79,Cape Winelands,Breede Valley Municipality,Empilisweni (Worcester) Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+80,Cape Winelands,Breede Valley Municipality,Rawsonville Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,30
+81,Cape Winelands,Breede Valley Municipality,Worcester Town Hall,Temporary outreach site,Pfizer,2021-05-31 00:00:00,yes,5 days,200
+82,Cape Winelands,Breede Valley Municipality,Touws River Clinic,Temporary outreach site,Pfizer,2021-05-31 00:00:00,Yes,5 days,20
+83,Cape Winelands,Breede Valley Municipality,Orchard Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,20
+84,Cape Winelands,Breede Valley Municipality,Sandhills Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,20
+85,Cape Winelands,Breede Valley Municipality,Rawsonville VGK Church Hall,Temporary outreach site,Pfizer,2021-07-12 00:00:00,Yes,1 day,150
+86,Cape Winelands,Drakenstein Municipality,Dalvale Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+87,Cape Winelands,Drakenstein Municipality,Gouda Clinic,Primary vaccination site,Pfizer,2021-06-28 00:00:00,Yes,5 days,30
+88,Cape Winelands,Drakenstein Municipality,Huis McCrone Clinic,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,100
+89,Cape Winelands,Drakenstein Municipality,Klein Drakenstein Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+90,Cape Winelands,Drakenstein Municipality,Nieuwedrift Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+91,Cape Winelands,Drakenstein Municipality,Patriot Plein Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+92,Cape Winelands,Drakenstein Municipality,Phola Park Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+93,Cape Winelands,Drakenstein Municipality,Saron Clinic,Primary vaccination site,Pfizer,2021-06-28 00:00:00,Yes,5 days,30
+94,Cape Winelands,Drakenstein Municipality,Simondium Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+95,Cape Winelands,Drakenstein Municipality,Soetendal Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+96,Cape Winelands,Drakenstein Municipality,TC Newman CDC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,6 days,300
+97,Cape Winelands,Drakenstein Municipality,Wellington CDC,Primary vaccination site,Pfizer,2021-07-12 00:00:00,Yes,5 days,150
+98,Cape Winelands,Drakenstein Municipality,Windmeul Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+99,Cape Winelands,Drakenstein Municipality,Mbekweni Community Hall,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,150
+100,Cape Winelands,Drakenstein Municipality,Thusong Centre Phola Park,Temporary outreach site,Pfizer,2021-07-05 00:00:00,Yes,5 days,150
+101,Cape Winelands,Langeberg Municipality,Cogmanskloof Clinic,Primary vaccination site,Pfizer,2021-07-12 00:00:00,Yes,5 days,20
+102,Cape Winelands,Langeberg Municipality,Zolani Clinic,Primary vaccination site,Pfizer,2021-06-21 00:00:00,Yes,5 days,20
+103,Cape Winelands,Langeberg Municipality,Montagu Clinic,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,30
+104,Cape Winelands,Langeberg Municipality,McGregor Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,20
+105,Cape Winelands,Langeberg Municipality,Happy Valley Clinic,Primary vaccination site,Pfizer,2021-07-05 00:00:00,Yes,5 days,20
+106,Cape Winelands,Langeberg Municipality,Callie de Wet Hall,Temporary outreach site,Pfizer,2021-05-31 00:00:00,yes,5 days,300
+107,Cape Winelands,Langeberg Municipality,Chris Van Zyl Hall,Temporary outreach site,Pfizer,2021-07-01 00:00:00,Yes,1 day,300
+108,Cape Winelands,Langeberg Municipality,Montagu Community Hall,Temporary outreach site,Pfizer,2021-07-12 00:00:00,Yes,1 day,100
+109,Cape Winelands,Langeberg Municipality,Ashton Town Hall,Temporary outreach site,Pfizer,2021-07-12 00:00:00,Yes,1 day,100
+110,Cape Winelands,Stellenbosch Municipality,Cloetesville CDC,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+111,Cape Winelands,Stellenbosch Municipality,Kayamandi Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,10
+112,Cape Winelands,Stellenbosch Municipality,Idas Valley Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+113,Cape Winelands,Stellenbosch Municipality,Kylemore Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,30
+114,Cape Winelands,Stellenbosch Municipality,Don and Pat Bilton Clinic,Temporary outreach site,Pfizer,2021-07-05 00:00:00,Yes,5 days,30
+115,Cape Winelands,Stellenbosch Municipality,Klapmuts Multi-Purpose Centre,Temporary outreach site,Pfizer,2021-06-17 00:00:00,Yes,1 day,150
+116,Cape Winelands,Stellenbosch Municipality,Groendal Community Hall,Temporary outreach site,Pfizer,2021-06-18 00:00:00,Yes,1 day,150
+117,Cape Winelands,Stellenbosch Municipality,Van Der Stel Sports Grounds,Temporary outreach site,Pfizer,2021-05-31 00:00:00,yes,5 days,250
+118,Cape Winelands,Stellenbosch Municipality,Kayamandi Corridor,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,1 day,150
+119,Cape Winelands,Stellenbosch Municipality,Eikestad Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,1 day,150
+120,Cape Winelands,Witzenberg Municipality,Ceres Hospital,Primary vaccination site,Pfizer,2021-05-31 00:00:00,Yes,5 days,250
+121,Cape Winelands,Witzenberg Municipality,Prince Alfred Hamlet Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,1 day,150
+122,Cape Winelands,Witzenberg Municipality,Op die Berg Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,1 day,150
+123,Cape Winelands,Witzenberg Municipality,Tulbagh Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,1 day,150
+124,Cape Winelands,Witzenberg Municipality,Wolseley Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,1 day,150
+125,Cape Winelands,Witzenberg Municipality,Nduli Clinic,Temporary outreach site,Pfizer,2021-06-28 00:00:00,Yes,1 day,150
+126,Cape Winelands,Witzenberg Municipality,Bella Vista Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,1 day,150
+127,Central Karoo,Beaufort West Municipality,Merweville Satellite Clinic,Temporary outreach site,Pfizer,2021-06-23 00:00:00,Yes,1 day,10
+128,Central Karoo,Beaufort West Municipality,Hillside Clinic,Temporary outreach site,Pfizer,2021-06-15 00:00:00,Yes,5 days,100
+129,Central Karoo,Beaufort West Municipality,Beaufort West CDC,Temporary outreach site,Pfizer,2021-06-11 00:00:00,Yes,5 days,100
+130,Central Karoo,Beaufort West Municipality,Kwamandlenkosi Clinic,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,5 days,100
+131,Central Karoo,Beaufort West Municipality,Nieuveldpark Clinic,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,5 days,100
+132,Central Karoo,Beaufort West Municipality,Nelspoort Clinic,Temporary outreach site,Pfizer,2021-06-17 00:00:00,Yes,1 day,10
+133,Central Karoo,Beaufort West Municipality,Murraysburg Clinic,Primary vaccination site,Pfizer,2021-07-02 00:00:00,Yes,5 days,50
+134,Central Karoo,Laingsburg Municipality,Matjiesfontein Satellite Clinic,Temporary outreach site,Pfizer,2021-07-02 00:00:00,Yes,1 day,0
+135,Central Karoo,Laingsburg Municipality,Laingsburg Clinic,Primary vaccination site,Pfizer,2021-06-14 00:00:00,Yes,5 days,100
+136,Central Karoo,Prince Albert Municipality,Prince Albert Clinic,Primary vaccination site,Pfizer,2021-06-15 00:00:00,Yes,5 days,100
+137,Central Karoo,Prince Albert Municipality,Klaarstroom Satellite Clinic,Temporary outreach site,Pfizer,2021-07-01 00:00:00,Yes,1 day,10
+138,Central Karoo,Prince Albert Municipality,Leeu-Gamka Clinic,Temporary outreach site,Pfizer,2021-06-15 00:00:00,Yes,1 day,20
+139,Garden Route,Bitou Municipality,Plettenberg Bay Clinic,Temporary outreach site,Pfizer,2021-06-02 00:00:00,Yes,5 days,150
+140,Garden Route,Bitou Municipality,Kwanokuthula CDC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,Yes,3 days,150
+141,Garden Route,Bitou Municipality,Crags Clinic,Temporary outreach site,Pfizer,2021-06-21 00:00:00,Yes,1 day,120
+142,Garden Route,Bitou Municipality,Kranshoek Clinic,Temporary outreach site,Pfizer,2021-06-21 00:00:00,Yes,1 day,150
+143,Garden Route,George Municipality,Harry Comay TB Hospital,Primary vaccination site,Pfizer,2021-06-02 00:00:00,Yes,5 days,350
+144,Garden Route,George Municipality,Thembalethu CDC,Primary vaccination site,Pfizer,2021-06-03 00:00:00,Yes,5 days,350
+145,Garden Route,George Municipality,George Central Clinic,Temporary outreach site,Pfizer,2021-06-03 00:00:00,Yes,5 days,150
+146,Garden Route,George Municipality,Uniondale Hospital,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+147,Garden Route,George Municipality,George Mobile 1,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,100
+148,Garden Route,George Municipality,Pacaltsdorp Clinic,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+149,Garden Route,Hessequa Municipality,Riversdale Civic Centre,Temporary outreach site,Pfizer,2021-06-03 00:00:00,Yes,5 days,100
+150,Garden Route,Hessequa Municipality,Heidelberg Duivenhoks Hall,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,3 days,100
+151,Garden Route,Hessequa Municipality,Albertinia Theronsville Hall,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,2 days,100
+152,Garden Route,Hessequa Municipality,Melkhoutfontein Satellite Clinic,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,1 day,100
+153,Garden Route,Hessequa Municipality,Still Bay Civic Centre,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,4 days,100
+154,Garden Route,Hessequa Municipality,Slangrivier Satellite Clinic,Temporary outreach site,Pfizer,2021-06-11 00:00:00,Yes,1 day,40
+155,Garden Route,Hessequa Municipality,Witsand de Duine Hall,Temporary outreach site,Pfizer,2021-06-08 00:00:00,Yes,3 days,35
+156,Garden Route,Hessequa Municipality,Gouritsmond Hall,Temporary outreach site,Pfizer,2021-06-22 00:00:00,Yes,2 days,70
+157,Garden Route,Kannaland Municipality,Ladismith DRC Church Hall,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,2 days,200
+158,Garden Route,Kannaland Municipality,Zoar Sports Club,Temporary outreach site,Pfizer,2021-06-02 00:00:00,Yes,1 day,200
+159,Garden Route,Kannaland Municipality,Calitzdorp DRC Church Hall,Temporary outreach site,Pfizer,2021-06-04 00:00:00,Yes,2 days,200
+160,Garden Route,Kannaland Municipality,Van Wyksdorp Kerksaal,Temporary outreach site,Pfizer,2021-06-08 00:00:00,Yes,1 day,150
+161,Garden Route,Knysna Municipality,Knysna CDC,Temporary outreach site,Pfizer,2021-06-21 00:00:00,Yes,5 days,100
+162,Garden Route,Knysna Municipality,Knysna Town Hall,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,200
+163,Garden Route,Knysna Municipality,Sedgefield Clinic,Temporary outreach site,Pfizer,2021-06-15 00:00:00,Yes,2 days,100
+164,Garden Route,Knysna Municipality,Keurhoek Satellite Clinic,Temporary outreach site,Pfizer,2021-06-18 00:00:00,Yes,1 day,50
+165,Garden Route,Knysna Municipality,Karatara Satellite Clinic,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,1 day,50
+166,Garden Route,Mossel Bay Municipality,Alma CDC,Temporary outreach site,Pfizer,2021-06-04 00:00:00,Yes,4 days,300
+167,Garden Route,Mossel Bay Municipality,Wolwedans Community Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,4 days,200
+168,Garden Route,Mossel Bay Municipality,Mossel Bay Town Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,4 days,300
+169,Garden Route,Mossel Bay Municipality,Mossel Bay Outreach Mobile,Temporary outreach site,Pfizer,2021-05-31 00:00:00,Yes,4 days,200
+170,Garden Route,Mossel Bay Municipality,D'Almeida Community Hall,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,4 days,300
+171,Garden Route,Oudtshoorn Municipality,Toekomsrust Community Hall,Temporary outreach site,Pfizer,2021-06-21 00:00:00,Yes,5 days,300
+172,Garden Route,Oudtshoorn Municipality,Dysselsdorp Clinic,Temporary outreach site,Pfizer,2021-06-15 00:00:00,Yes,1 day,100
+173,Garden Route,Oudtshoorn Municipality,De Rust (Blommenek) Clinic,Temporary outreach site,Pfizer,2021-06-17 00:00:00,Yes,1 day,100
+174,Garden Route,Oudtshoorn Municipality,Oudtshoorn Clinic,Temporary outreach site,Pfizer,2021-07-05 00:00:00,Yes,5 days,100
+175,Overberg,Cape Agulhas Municipality,Bredasdorp Glaskasteel,Temporary outreach site,Pfizer,2021-06-16 00:00:00,Yes,1 day,32
+176,Overberg,Cape Agulhas Municipality,Nelson Mandela Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,1 day,32
+177,Overberg,Cape Agulhas Municipality,Bredasdorp Mobile 1,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,1 day,32
+178,Overberg,Cape Agulhas Municipality,Bredasdorp Mobile 2,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,1 day,32
+179,Overberg,Cape Agulhas Municipality,Struisbaai Clinic,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,1 day,32
+180,Overberg,Cape Agulhas Municipality,Napier Clinic,Temporary outreach site,Pfizer,2021-06-03 00:00:00,Yes,1 day,32
+181,Overberg,Cape Agulhas Municipality,Elim Satellite Clinic,Temporary outreach site,Pfizer,2021-06-08 00:00:00,Yes,1 day,32
+182,Overberg,Cape Agulhas Municipality,Waenhuiskrans Satellite Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,1 day,32
+183,Overberg,Overstrand Municipality,Chapel Bettysbay,Temporary outreach site,Pfizer,2021-06-08 00:00:00,Yes,1 day,100
+184,Overberg,Overstrand Municipality,Mooi Uitsig Community Hall,Temporary outreach site,Pfizer,2021-06-21 00:00:00,Yes,1 day,40
+185,Overberg,Overstrand Municipality,Hermanus CDC,Primary vaccination site,Pfizer,2021-06-09 00:00:00,Yes,3 days,150
+186,Overberg,Overstrand Municipality,Mount Pleasant Moffat Hall,Temporary outreach site,Pfizer,2021-06-01 00:00:00,Yes,2 days,100
+187,Overberg,Overstrand Municipality,Hermanus Auditorium,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,200
+188,Overberg,Overstrand Municipality,Zwelihle Community Hall,Temporary outreach site,Pfizer,2021-06-01 00:00:00,Yes,2 days,100
+189,Overberg,Overstrand Municipality,Proteadorp Community Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,3 days,150
+190,Overberg,Overstrand Municipality,Hawston Thusong Hall,Temporary outreach site,Pfizer,2021-06-04 00:00:00,Yes,2 days,100
+191,Overberg,Overstrand Municipality,Stanford Clinic,Temporary outreach site,Pfizer,2021-06-02 00:00:00,Yes,2 days,100
+192,Overberg,Overstrand Municipality,Caledon/Hermanus/Stanford Mobile 4,Temporary outreach site,Pfizer,2021-06-23 00:00:00,Yes,1 day,50
+193,Overberg,Overstrand Municipality,Sports Hall Gansbaai,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,3 days,150
+194,Overberg,Swellendam Municipality,Swellendam Showgrounds,Temporary outreach site,Pfizer,2021-06-16 00:00:00,Yes,1 day,250
+195,Overberg,Swellendam Municipality,Nuwedorp Mobile Post,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,1 day,100
+196,Overberg,Swellendam Municipality,Railton Community Hall,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,1 day,100
+197,Overberg,Swellendam Municipality,Fort Haven Hall Barrydale,Temporary outreach site,Pfizer,2021-06-11 00:00:00,Yes,1 day,100
+198,Overberg,Swellendam Municipality,Suurbraak Clinic,Temporary outreach site,Pfizer,2021-06-18 00:00:00,Yes,1 day,150
+199,Overberg,Swellendam Municipality,Buffeljagsrivier Clinic,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,1 day,150
+200,Overberg,Theewaterskloof Municipality,Grabouw CHC,Primary vaccination site,Pfizer,2021-06-01 00:00:00,Yes,5 days,200
+201,Overberg,Theewaterskloof Municipality,Grabouw Kleinbegin/Timbers,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,3 days,100
+202,Overberg,Theewaterskloof Municipality,Villiersdorp Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,3 days,100
+203,Overberg,Theewaterskloof Municipality,Botrivier Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,3 days,50
+204,Overberg,Theewaterskloof Municipality,Genadendal Clinic,Temporary outreach site,Pfizer,2021-05-31 00:00:00,Yes,3 days,50
+205,Overberg,Theewaterskloof Municipality,Voorstekraal Satellite Clinic,Temporary outreach site,Pfizer,2021-06-02 00:00:00,Yes,1 day,20
+206,Overberg,Theewaterskloof Municipality,Bereaville Satellite Clinic,Temporary outreach site,Pfizer,2021-06-02 00:00:00,Yes,1 day,20
+207,Overberg,Theewaterskloof Municipality,Greyton Satellite Clinic,Temporary outreach site,Pfizer,2021-06-03 00:00:00,Yes,1 day,20
+208,Overberg,Theewaterskloof Municipality,Victoria Hall Caledon,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,2 days,50
+209,Overberg,Theewaterskloof Municipality,Caledon Hospital,Primary vaccination site,Pfizer,2021-05-31 00:00:00,Yes,5 days,50
+210,Overberg,Theewaterskloof Municipality,Riviersonderend Clinic,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,2 days,50
+211,West Coast,Bergrivier Municipality,Piketberg Clinic,Primary vaccination site,Pfizer,2021-05-31 00:00:00,Yes,4 days,50
+212,West Coast,Bergrivier Municipality,Porterville Clinic,Primary vaccination site,Pfizer,2021-05-31 00:00:00,Yes,3 days,50
+213,West Coast,Bergrivier Municipality,Wittewater Satellite Clinic,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,1 day,50
+214,West Coast,Bergrivier Municipality,Goedverwacht Satellite Clinic,Temporary outreach site,Pfizer,2021-06-01 00:00:00,Yes,1 day,50
+215,West Coast,Bergrivier Municipality,Eendekuil Satellite Clinic,Temporary outreach site,Pfizer,2021-06-11 00:00:00,Yes,1 day,50
+216,West Coast,Bergrivier Municipality,Redelinghuys Satellite Clinic,Temporary outreach site,Pfizer,2021-06-08 00:00:00,Yes,1 day,50
+217,West Coast,Bergrivier Municipality,Aurora Satellite Clinic,Temporary outreach site,Pfizer,2021-05-31 00:00:00,Yes,1 day,50
+218,West Coast,Bergrivier Municipality,Velddrif Clinic,Primary vaccination site,Pfizer,2021-05-31 00:00:00,Yes,4 days,50
+219,West Coast,Cederberg Municipality,Citrusdal Clinic,Primary vaccination site,Pfizer,2021-06-01 00:00:00,Yes,5 days,0
+220,West Coast,Cederberg Municipality,Graafwater Clinic,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,50
+221,West Coast,Cederberg Municipality,Lamberts Bay Clinic,Primary vaccination site,Pfizer,2021-06-01 00:00:00,Yes,5 days,30
+222,West Coast,Cederberg Municipality,Elands Bay Clinic,Primary vaccination site,Pfizer,2021-06-07 00:00:00,Yes,5 days,30
+223,West Coast,Cederberg Municipality,Wupperthal Clinic,Temporary outreach site,Pfizer,2021-06-08 00:00:00,Yes,5 days,50
+224,West Coast,Cederberg Municipality,Citrusdal Hospital,Primary vaccination site,Pfizer,2021-06-01 00:00:00,Yes,5 days,30
+225,West Coast,Cederberg Municipality,Clanwilliam Hospital,Primary vaccination site,Pfizer,2021-06-01 00:00:00,Yes,5 days,30
+226,West Coast,Matzikama Municipality,Klawer Community Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,5 days,28
+227,West Coast,Matzikama Municipality,Lutzville Community Hall West,Temporary outreach site,Pfizer,2021-06-02 00:00:00,Yes,3 days,28
+228,West Coast,Matzikama Municipality,Lutzville Uitkyk,Temporary outreach site,Pfizer,2021-06-28 00:00:00,Yes,5 days,28
+229,West Coast,Matzikama Municipality,Vredendal North Community Hall,Temporary outreach site,Pfizer,2021-06-01 00:00:00,Yes,5 days,28
+230,West Coast,Matzikama Municipality,Van Rhynsdorp Community Hall,Temporary outreach site,Pfizer,2021-06-22 00:00:00,Yes,5 days,28
+231,West Coast,Matzikama Municipality,Doringbaai Satellite Clinic,Temporary outreach site,Pfizer,2021-06-29 00:00:00,Yes,3 days,28
+232,West Coast,Matzikama Municipality,Ebenhaezer Satellite Clinic,Temporary outreach site,Pfizer,2021-06-28 00:00:00,Yes,3 days,28
+233,West Coast,Matzikama Municipality,Koekenaap Satellite Clinic,Temporary outreach site,Pfizer,2021-06-30 00:00:00,Yes,3 days,28
+234,West Coast,Matzikama Municipality,Bitterfontein Satellite Clinic,Temporary outreach site,Pfizer,2021-06-11 00:00:00,Yes,1 day,28
+235,West Coast,Matzikama Municipality,Kliprand Satellite Clinic,Temporary outreach site,Pfizer,2021-06-29 00:00:00,Yes,1 day,28
+236,West Coast,Matzikama Municipality,Molsvlei Satellite Clinic,Temporary outreach site,Pfizer,2021-06-17 00:00:00,Yes,1 day,28
+237,West Coast,Matzikama Municipality,Nuwerus Satellite Clinic,Temporary outreach site,Pfizer,2021-06-18 00:00:00,Yes,1 day,28
+238,West Coast,Matzikama Municipality,Rietpoort Satellite Clinic,Temporary outreach site,Pfizer,2021-06-15 00:00:00,Yes,1 day,28
+239,West Coast,Matzikama Municipality,Stofkraal Satellite Clinic,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,1 day,28
+240,West Coast,Matzikama Municipality,Vredendal Hospital,Primary vaccination site,Pfizer,2021-06-01 00:00:00,yes,5 days,28
+241,West Coast,Saldanha Bay Municipality,Diazville Community Hall,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,5 days,35
+242,West Coast,Saldanha Bay Municipality,Hopefield Community Hall,Temporary outreach site,Pfizer,2021-06-01 00:00:00,Yes,5 days,35
+243,West Coast,Saldanha Bay Municipality,Langebaan Town Hall,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,2 days,35
+244,West Coast,Saldanha Bay Municipality,Skilpad Hall,Temporary outreach site,Pfizer,2021-06-23 00:00:00,Yes,5 days,35
+245,West Coast,Saldanha Bay Municipality,Sandy Point Community Hall,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,5 days,35
+246,West Coast,Saldanha Bay Municipality,Solomon Paternoster Hall,Temporary outreach site,Pfizer,2021-06-09 00:00:00,Yes,2 days,35
+247,West Coast,Saldanha Bay Municipality,Saldanha Multi-purpose Hall,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,35
+248,West Coast,Saldanha Bay Municipality,Dial Rock Saldanha,Temporary outreach site,Pfizer,2021-06-07 00:00:00,Yes,5 days,35
+249,West Coast,Saldanha Bay Municipality,Laingville Church,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,5 days,35
+250,West Coast,Saldanha Bay Municipality,Steenbergs Cove,Temporary outreach site,Pfizer,2021-06-14 00:00:00,Yes,5 days,35
+251,West Coast,Swartland Municipality,Moorreesburg Town hall,Temporary outreach site,Pfizer,2021-06-11 00:00:00,Yes,5 days,13
+252,West Coast,Swartland Municipality,Darling Community Hall,Temporary outreach site,Pfizer,2021-06-21 00:00:00,Yes,5 days,13
+253,West Coast,Swartland Municipality,Riebeek Wes Town Hall,Temporary outreach site,Pfizer,2021-06-29 00:00:00,Yes,5 days,13
+254,West Coast,Swartland Municipality,Riebeek Kasteel Community Hall,Temporary outreach site,Pfizer,2021-06-25 00:00:00,Yes,5 days,13
+255,West Coast,Swartland Municipality,Wesbank Community Hall,Temporary outreach site,Pfizer,2021-06-01 00:00:00,Yes,4 days,13
+256,West Coast,Swartland Municipality,Koringberg Satellite Clinic,Temporary outreach site,Pfizer,2021-06-24 00:00:00,Yes,2 days,13
+257,West Coast,Swartland Municipality,Abbotsdale Satellite Clinic,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,1 day,13
+258,West Coast,Swartland Municipality,Kalbaskraal Satellite Clinic,Temporary outreach site,Pfizer,2021-06-18 00:00:00,Yes,1 day,13
+259,West Coast,Swartland Municipality,Riverlands Satellite Clinic,Temporary outreach site,Pfizer,2021-06-18 00:00:00,Yes,3 days,13
+260,West Coast,Swartland Municipality,Yzerfontein Town Hall,Temporary outreach site,Pfizer,2021-07-02 00:00:00,Yes,4 days,13
+261,West Coast,Swartland Municipality,Chatsworth Satellite Clinic,Temporary outreach site,Pfizer,2021-06-10 00:00:00,Yes,1 day,13
+262,West Coast,Saldanha Bay Municipality,Vredenburg Hospital,Primary vaccination site,Pfizer,2021-06-01 00:00:00,yes,5 days,0
+263,Central Karoo DM,Beaufort West LM,"Dan De Villiers Building Corner of Grimbeeck & Thompson street, Beaufort West",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+264,Central Karoo DM,Beaufort West LM,Thusung Centre 26 Leed street Murraysburg,Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+265,Central Karoo DM,Laingsburg LM,Thusong Centre Cnr Main & Third Avenue Laingsburg,Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+266,Central Karoo DM,Prince Albert LM,Thusong Centre Church street Prince Albert,Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+267,Garden Route DM,Bitou LM,"Demar Building, Main Road, Knysna",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+268,Garden Route DM,George LM,"DSD Boardroom, York Park building Ground Floor",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+269,Garden Route DM,Hessequa LM,"DSD Office, 6 Van Riebeeck Street, Riversdale",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+270,Garden Route DM,Kannaland,"Thusong Cente, Ladismith",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+271,Garden Route DM,Knysna LM,"Demar Building, Main Road, Knysna",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+272,Garden Route DM,Mossel Bay LM,"DSD Office, 24 Marsh Street, Mossel Bay",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+273,Garden Route DM,Oudtshoorn LM,"Seppie Greeff Building, Voortrekker Road",Temporary Outreach site,J&J,2021-07-19 00:00:00,yes,5 days,tbc
+0,Sedibeng DM,Emfuleni LM,Saul Tsotetsi,fixed outreach site,J&J,23/06/2021,yes,5 days,240
+1,Sedibeng DM,Midvaal,lakeside hall,fixed outreach site,J&J,23/06/2021,yes,5 days,80
+2,Sedibeng DM,Lesedi LM,Impumelelo Hall,fixed outreach site,Pfizer,23/06/2021,yes,5 days,80
+3,Sedibeng DM,Lesedi LM,Heidelberg town hall,fixed outreach site,J&J,23/06/2021,yes,5 days,120
+4,Sedibeng DM,Emfuleni LM,Sebokeng Hospital,primary vaccination site,J&J,23/06/2021,yes,5 days,320
+5,Sedibeng DM,Emfuleni LM,Levai Mbatha CHC,primary vaccination site,Pfizer,31/05/2021,yes,5 days,120
+6,Sedibeng DM,Lesedi LM,Johan Heyns CHC,primary vaccination site,Pfizer,31/05/2021,yes,5 days,160
+7,Sedibeng DM,Lesedi LM,Ratanda,primary vaccination site,Pfizer,31/05/2021,yes,5 days,160
+8,Sedibeng DM,Emfuleni LM,Market banquet hall,primary vaccination site,Pfizer,31/05/2021,yes,5 days,120
+9,Sedibeng DM,Emfuleni LM,Sharpeville,fixed outreach site,Pfizer,31/05/2021,yes,5 days,120
+10,Sedibeng DM,Lesedi LM,Jameson Park Clinic,fixed outreach site,Pfizer,31/05/2021,yes,5 days,80
+11,Sedibeng DM,Emfuleni LM,mafatsana thusong hall,fixed outreach site,Pfizer,31/05/2021,yes,5 days,160
+12,Sedibeng DM,Lesedi LM,usizolwethu clinic,primary vaccination site,Pfizer,31/05/2021,yes,5 days,80
+13,Sedibeng DM,Midvaal,Midvaal,fixed outreach site,Pfizer,31/05/2021,yes,5 days,120
+14,Johannesburg MM,Johannesburg F SD,Hillbrow CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,240
+15,Johannesburg MM,Johannesburg E SD,Alexandra CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,240
+16,Johannesburg MM,Johannesburg D SD,Chiawelo CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,240
+17,Johannesburg MM,Johannesburg D SD,Itireleng CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,160
+18,Johannesburg MM,Johannesburg G SD,Stretford CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,160
+19,Johannesburg MM,Johannesburg G SD,Lenasia South Hospital,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,200
+20,Johannesburg MM,Johannesburg D SD,CHBAH Recreational Centre,primary vaccination site,Pfizer,17/05/2021,Yes,7 days,720
+21,Johannesburg MM,Johannesburg C SD,Discoverers CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,240
+22,Johannesburg MM,Johannesburg G SD,Lenasia South Extension 5 Clinic,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,200
+23,Johannesburg MM,Johannesburg F SD,Charlotte Maxeke Hospital,primary vaccination site,Pfizer,24/05/2021,Yes,5 days,800
+24,Johannesburg MM,Johannesburg C SD,Danny Van Zyl recreational centre,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,280
+25,Johannesburg MM,Johannesburg A SD,Lord Khanyile Hall,primary vaccination site,Pfizer,02/06/2021,Yes,5 days,240
+26,Johannesburg MM,Johannesburg D SD,Kanana Community Hall,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,400
+27,Johannesburg MM,Johannesburg F SD,Yeoville recreation centre,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,400
+28,Johannesburg MM,Johannesburg B SD,Berairo Recreational Hall,primary vaccination site,Pfizer,07/05/2021,Yes,5 days,360
+29,Johannesburg MM,Johannesburg G SD,WitPooitjie Recreational Center,primary vaccination site,Pfizer,07/05/2021,Yes,5 days,400
+30,Johannesburg MM,Johannesburg D SD,Kopanong Community Hall,primary vaccination site,Pfizer,07/05/2021,Yes,5 days,400
+31,Johannesburg MM,Johannesburg D SD,Makhaya Community Hall,primary vaccination site,Pfizer,07/05/2021,Yes,5 days,400
+32,Johannesburg MM,Johannesburg D SD,Meadowlands zone 10 Hall,primary vaccination site,Pfizer,07/05/2021,Yes,5 days,360
+33,Johannesburg MM,Johannesburg E SD,Wendy wood Sports and Recreational Centre,primary vaccination site,Pfizer,07/05/2021,Yes,5 days,400
+34,Johannesburg MM,Johannesburg F SD,Mondeor Recreational Centre,primary vaccination site,Pfizer,01/06/2021,Yes,5 days,400
+35,Johannesburg MM,Johannesburg D SD,Diepkloof Community Hall,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,400
+36,Johannesburg MM,Johannesburg D SD,Naledi Community Hall,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,360
+37,Johannesburg MM,Johannesburg D SD,Naledi Ext 2 Sports Centre,primary vaccination site,Pfizer,07/06/2021,Yes,5 days,360
+38,Johannesburg MM,Johannesburg G SD,Weilers Farm Hall at Clinic,primary vaccination site,Pfizer,07/06/2021,Yes,5 days,360
+39,Johannesburg MM,Johannesburg E SD,Marlboro Sport Complex,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,400
+40,Johannesburg MM,Johannesburg E SD,Sport Complex Alexandra Eastbank,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,240
+41,Johannesburg MM,Johannesburg G SD,Ennerdale Ext 9 Community Centre,primary vaccination site,Pfizer,31/05/2021,Yes,5 days,360
+42,Johannesburg MM,Johannesburg A SD,Midrand LA EMS,Primary Vaccination Site,Pfizer,07/06/2021,Yes,5 days,240
+43,Johannesburg MM,Johannesburg A SD,Diepsloot youth Centre,Primary Vaccination Site,Pfizer,Jun/Wed/2021202120212021,Yes,5 days,240
+44,Johannesburg MM,Johannesburg A SD,Witkoppen Clinic,primary vaccination site,J&J,23/06/2021,Yes,5 days,400
+45,Johannesburg MM,Johannesburg F SD,Gross Venor Hall,primary vaccination site,J&J,23/06/2021,Yes,5 days,400
+46,Johannesburg MM,Johannesburg BSD,Parkhurst Recreationl Centre,primary vaccination site,J&J,23/06/2021,Yes,5 days,240
+47,Johannesburg MM,Johannesburg C SD,Roodepoort Town Hall,primary vaccination site,J&J,24/06/2021,Yes,5 days,200
+48,Johannesburg MM,Johannesburg C SD,Flerhoff Community Centre,primary vaccination site,J&J,24/06/2021,Yes,5 days,200
+49,Johannesburg MM,Johannesburg C SD,Nkone Maruping Primary(Braamfischer Hall),primary vaccination site,J&J,23/06/2021,Yes,5 days,120
+50,Johannesburg MM,Johannesburg G SD,Arekopaneng Community Hall,primary vaccination site,J&J,23/06/2021,Yes,5 days,120
+51,Johannesburg MM,Johannesburg D SD,Grace Bible Church Drive thru,primary vaccination site,J&J,23/06/2021,Yes,5 days,200
+52,Johannesburg MM,Johannesburg D SD,Phelophepha Train,primary vaccination site,Pfizer,21/06/2021,Yes,5 days,120
+53,Johannesburg MM,Johannesburg G SD,Freedom park clinic,primary vaccination site,Pfizer,21/06/2021,Yes,5 days,240
+54,Johannesburg MM,Johannesburg D SD,Poortjie clinic,primary vaccination site,Pfizer,21/06/2021,Yes,5 days,160
+55,Johannesburg MM,Johannesburg C SD,Tshepisong clinic,primary vaccination site,Pfizer,21/06/2021,Yes,5 days,120
+56,Johannesburg MM,Johannesburg D SD,Maropeng clinic,primary vaccination site,Pfizer,21/06/2021,Yes,5 days,160
+57,Johannesburg MM,Johannesburg SD,Zandspruit,primary vaccination site,pfizer,04/06/2021,Yes,5 days,200
+58,Ekurhuleni MM,ekurhuleni S,Alberton civic centre,fixed outreach site,J&J,23/06/2021,Yes,5 days,240
+59,Ekurhuleni MM,ekurhuleni s,Alberton clinic,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,120
+60,Ekurhuleni MM,ekurhuleni E,springs hall,fixed outreach site,J&J,23/06/2021,Yes,5 days,240
+61,Ekurhuleni MM,ekurhuleni N,Rabosotho hall,fixed outreach site,J&J,23/06/2021,Yes,5 days,400
+62,Ekurhuleni MM,ekurhuleni E,KwaThema CHC,fixed outreach site,J&J,23/06/2021,Yes,5 days,80
+63,Ekurhuleni MM,ekurhuleni N,actonville hall,fixed outreach site,J&J,23/06/2021,Yes,5 days,200
+64,Ekurhuleni MM,ekurhuleni N,Christian family Church Drive Through,fixed outreach site,J&J,23/06/2021,Yes,5 days,320
+65,Ekurhuleni MM,ekurhuleni S,DH Williams,fixed outreach site,J&J,23/06/2021,Yes,5 days,320
+66,Ekurhuleni MM,ekurhuleni N,Midstream Primary,fixed outreach site,J&J,23/06/2021,Yes,5 days,240
+67,Ekurhuleni MM,ekurhuleni E,Phillip Moyo CHC,fixed outreach site,J&J,23/06/2021,Yes,5 days,80
+68,Ekurhuleni MM,ekurhuleni E,Phillip Moyo CHC,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+69,Ekurhuleni MM,ekurhuleni E,Tsakane clinic,fixed outreach site,J&J,23/06/2021,Yes,5 days,160
+70,Ekurhuleni MM,ekurhuleni S,Vosloorus hall,fixed outreach site,J&J,23/06/2021,Yes,5 days,240
+71,Ekurhuleni MM,ekurhuleni N,Kempton Park Civic Centre,primary vaccination site,J&J,23/06/2021,Yes,5 days,320
+72,Ekurhuleni MM,ekurhuleni N,Esangweni CHC christian church unternational,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,240
+73,Ekurhuleni MM,ekurhuleni E,Daveyton CDC main,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,160
+74,Ekurhuleni MM,ekurhuleni E,Nokuthela Ngwenya CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,160
+75,Ekurhuleni MM,ekurhuleni S,Jabulani Dumane CHC,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,240
+76,Ekurhuleni MM,ekurhuleni S,Bertha Gqxowa Hospital (Kobie Muller Hall),primary vaccination site,Pfizer,17/05/2021,Yes,5 days,600
+77,Ekurhuleni MM,ekurhuleni n,Boksburg Civic Hall,primary vaccination site,Pfizer,20/05/2021,Yes,5 days,160
+78,Ekurhuleni MM,ekurhuleni e,gp Duduza Clinic,primary vaccination site,Pfizer,25/05/2021,Yes,5 days,160
+79,Ekurhuleni MM,ekurhuleni s,gp Esangweni CHC,primary vaccination site,J&J,23/06/2021,Yes,5 days,240
+80,Ekurhuleni MM,ekurhuleni e,gp Joy Clinic,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,80
+81,Ekurhuleni MM,ekurhuleni s,gp Phola Park CHC,primary vaccination site,Pfizer,25/05/2021,Yes,5 days,80
+82,Ekurhuleni MM,erkurhuleni s,gp Thelle Mogoerane Regional Hospital,primary vaccination site,Pfizer,22/02/2021,Yes,5 days,560
+83,Ekurhuleni MM,erkurhuleni n,Tembisa Hospital,primary vaccination site,Pfizer,25/05/2021,Yes,5 days,160
+84,Ekurhuleni MM,ekurhuleni s,Thokoza youth center,primary vaccination site,Pfizer,11/06/2021,Yes,5 days,200
+85,Ekurhuleni MM,ekurhuleni e,Pholosong hospital,primary vaccination site,Pfizer,22/02/2021,Yes,5 days,240
+86,West rand District,Rand West City LM,westonaria civic center (Education Department),fixed outreach site,J&J,23/06/2021,Yes,5 days,200
+87,West rand District,Rand West City LM,westonaria civic center,fixed outreach site,Pfizer,26/05/2021,Yes,5 days,80
+88,West rand District,Rand West City LM,greenhills stadium (Education Department),Temporary outreach site (with cooler box),J&J,23/06/2021,Yes,5 days,200
+89,West rand District,Rand West City LM,greenhills stadium,Temporary outreach site,Pfizer,14/06/2021,Yes,5 days,0
+90,West rand District,Merafong City LM,Carletonville hospital,primary vaccination site,Pfizer,18/05/2021,Yes,5 days,120
+91,West rand District,Merafong City LM,carletonville civic center (Education Department),fixed outreach site,J&J,23/06/2021,Yes,5 days,80
+92,West rand District,Mogale City LM,Jubilee hall (Education Department),fixed outreach site,J&J,23/06/2021,Yes,5 days,200
+93,West rand District,Mogale City LM,Jubilee hall,fixed outreach site,Pfizer,02/06/2021,Yes,5 days,0
+94,West rand District,Mogale City LM,Krugersdorp Town Hall (Phase 2),fixed outreach site,Pfizer,10/06/2020,Yes,7 days,80
+95,West rand District,Rand West City LM,Zuurbekom Clinic (phase 2),temporary outreach site,Pfizer,04/06/2021,Yes,5 days,40
+96,West rand District,Rand West City LM,Simunye Hall (phase 2),fixed outreach site,J&J,14/06/2021,Yes,5 days,200
+97,West rand District,Rand West City LM,Ramosa Hall (Phase II),fixed outreach site,Pfizer,25/05/2021,Yes,3 days,0
+98,West rand District,Merafong City LM,Fochville Civic Center,Temporary outreach site,Pfizer,07/6/2021,Yes,5 days,80
+99,West rand District,Merafong City LM,Wedela Community Hall,Temporary outreach site,Pfizer,07/6/2021,Yes,5 days,80
+100,West rand District,Merafong City LM,Khutsong Community Hall,Temporary outreach site,J&J,21/06/2021,Yes,5 days,200
+101,West rand District,Merafong City LM,Nelson Mandela Hall Tarleton(Phase 2),fixed outreach site,Pfizer,17/06/2021,Yes,4 days,80
+102,West rand District,Mogale City LM,Kagiso ext12 Hall (phase2),fixed outreach site,Pfizer,17/05/2021,Yes,6 days,200
+103,West rand District,Mogale City LM,Leratong Hospital,primary vaccination site,Pfizer,17/05/2021,Yes,5 days,80
+104,West rand District,Mogale City LM,Dr yusuf dadoo,primary vaccination site,Pfizer,18/05/2021,Yes,5 days,80
+105,West rand District,Rand West City LM,Randgate clinic,primary vaccination site,Pfizer,25/05/2021,Yes,5 days,80
+106,West rand District,Rand West City LM,Ithuteng High school,fixed outreach site,Pfizer,23/06/2021,Yes,5 days,80
+107,West rand District,Mogale City LM,Pink Hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+108,West rand District,Rand West City LM,Mining house,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+109,West rand District,Rand West City LM,Venterspost Library,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+110,West rand District,Mogale City LM,toekomsrus Community Hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+111,West rand District,Mogale City LM,Joe Slovo Hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+112,West rand District,Mogale City LM,Centenary hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+113,West rand District,Mogale City LM,hekpoort hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+114,West rand District,Mogale City LM,bekersdal care of the aged,temporary outreach site,Pfizer,17/05/2021,Yes,5 days,80
+115,West rand District,Mogale City LM,munsiville care of the aged,temporary outreach site,Pfizer,17/05/2021,Yes,5 days,80
+116,West rand District,Merafong City LM,video hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+117,West rand District,Merafong City LM,burgerhoop hall,fixed outreach site,Pfizer,17/05/2021,Yes,5 days,80
+118,West rand District,Merafong City LM,Kokosi community hall,Temporary outreach site,J&J,28/06/2021,Yes,5 days,200
+119,Tshwane MM,1,Soshanguve Block JJ Clinic,Primary Vaccination site,J&J,18/05/2021,Yes,5 days,240
+120,Tshwane MM,2,Kekana Gardens,Primary Vaccination site,J&J,18/05/2021,Yes,5 days,160
+121,Tshwane MM,3,FF.Ribeiro clinic (Council Chamber),fixed outreach site,Pfizer,18/05/2021,Yes,5 days,320
+122,Tshwane MM,6,Eersterust CHC,Primary Vaccination site,J&J,18/05/2021,Yes,5 days,240
+123,Tshwane MM,7,Zithobeni Clinic,Primary Vaccination site,J&J,18/05/2021,Yes,5 days,160
+124,Tshwane MM,1,KT Motubatse Hall,fixed outreach site,J&J,24/05/2021,Yes,5 days,240
+125,Tshwane MM,1,Phedisong 4 CHC Hall,fixed outreach site,J&J,24/05/2021,Yes,5 days,240
+126,Tshwane MM,2,Suurman clinic,Primary Vaccination site,J&J,24/05/2021,Yes,5 days,160
+127,Tshwane MM,3,Laudium CHC,Primary Vaccination site,J&J,24/05/2021,Yes,5 days,160
+128,Tshwane MM,3,Atteridgeville Hall,fixed outreach site,J&J,24/05/2021,Yes,5 days,240
+129,Tshwane MM,5,Rayton Hall,fixed outreach site,Pfizer,24/05/2021,Yes,5 days,160
+130,Tshwane MM,6,Nellmapius Clinic,Primary Vaccination site,J&J,24/05/2021,Yes,5 days,120
+131,Tshwane MM,3,Weskopies Hospital,Primary Vaccination site,Pfizer,07/06/2021,Yes,5 days,80
+132,Tshwane MM,3,Tshwane Rehabilitation hospital,Primary Vaccination site,Pfizer,14/06/2021,Yes,5 days,80
+133,Tshwane MM,1,Mabopane Indoor Center,fixed outreach site,J&J,08/06/2021,Yes,5 days,160
+134,Tshwane MM,3,University of Pretoria,fixed outreach site,Pfizer,07/06/2021,Yes,5 days,80
+135,Tshwane MM,4,Olievenhoutbosch hall,fixed outreach site,J&J,07/06/2021,Yes,5 days,120
+136,Tshwane MM,6,Mamelodi hospital,Primary Vaccination site,J&J,08/06/2021,Yes,5 days,120
+137,Tshwane MM,3,ZuidAfrikaanse hospital,Primary Vaccination site,Pfizer,07/06/2021,Yes,5 days,40
+138,Tshwane MM,7,Rethabiseng hall,fixed outreach site,J&J,07/06/2021,Yes,5 days,160
+139,Tshwane MM,6,Stanza Bopape hall,fixed outreach site,J&J,15/06/2021,Yes,5 days,120
+140,Tshwane MM,1,Pretoria North hall,fixed outreach site,J&J,21/06/2021,Yes,5 days,120
+141,Tshwane MM,2,Mandisa Shiceka Clinic,Primary Vaccination site,J&J,21/06/2021,Yes,5 days,240
+142,Tshwane MM,2,Adelaide Tambo clinic,Primary Vaccination site,J&J,21/06/2021,Yes,5 days,160
+143,Tshwane MM,2,Refentse Clinic (Odi),Primary Vaccination site,J&J,21/06/2021,Yes,5 days,240
+144,Tshwane MM,2,Temba CHC,Primary Vaccination site,J&J,21/06/2021,Yes,5 days,240
+145,Tshwane MM,3,Disaster bus,temporary outreach site,Pfizer,21/06/2021,Yes,5 days,120
+146,Tshwane MM,7,Bronkospruit hall,primary vaccination site,Pfizer,12/07/2021,Yes,5 days,80
+147,Tshwane MM,7,Ekangala hall,fixed outreach site,J&J,21/06/2021,Yes,5 days,160
+0,Francis Baard,Sol Plaatjie,ROBERT MANGALISO SOBUKWE,PRIMARY VACCINATION SITE,Pfizer,5/17/2021,Yes,5 days,300
+1,Francis Baard,Sol Plaatjie,GALESHEWE DAY HOSPITAL,PRIMARY VACCINATION SITE,Pfizer,6/9/2021,Yes,5 days,200
+2,Francis Baard,Sol Plaatjie,WEST END PSY,PRIMARY VACCINATION SITE,Pfizer,7/5/2021,Yes,5 days,150
+3,Francis Baard,Dikgatlong,PROF ZK MATHEWS,PRIMARY VACCINATION SITE,Pfizer,7/5/2021,Yes,5 days,150
+4,Francis Baard,Phokwane,CONNIE VORSTER HOSPITAL,PRIMARY VACCINATION SITE,Pfizer,7/5/2021,Yes,5 days,150
+5,Francis Baard,Phokwane,VALSPAN CLINIC,PRIMARY VACCINATION SITE,Pfizer,7/5/2021,Yes,5 days,150
+6,Francis Baard,Phokwane,GANSPAN CLINIC,PRIMARY VACCINATION SITE,Pfizer,7/5/2021,Yes,5 days,150
+7,Francis Baard,Dikgatlong LM,Prof ZK Matthews Hospital,Temporary Outreach,J&J,7/12/2021,Yes,5 days,150
+8,Francis Baard,Dikgatlong LM,Prof ZK Matthews Hospital,Temporary Outreach,J&J,7/12/2021,Yes,5 days,150
+9,Francis Baard,Dikgatlong LM,Prof ZK Matthews Hospital,Temporary Outreach,J&J,7/12/2021,Yes,5 days,150
+10,Francis Baard,Magareng LM,Warrenton CHC,PRIMARY VACCINATION SITE,Pfizer,7/12/2021,Yes,5 days,150
+11,Francis Baard,Magareng LM,Warrenton CHC - Warrenton Primary School,Temporary Outreach,J&J,7/12/2021,Yes,5 days,150
+12,Francis Baard,Phokwane LM,Jan Kempdorp CHC Outreach 1 - Hoerskool Vaalharts,Temporary Outreach,J&J,7/12/2021,Yes,5 days,100
+13,Francis Baard,Phokwane LM,Jan Kempdorp CHC- Huis Andalusia Outreach,Temporary Outreach,Pfizer,7/12/2021,Yes,5 days,100
+14,Francis Baard,Phokwane LM,Jan Kempdorp CHC Outreach 3 - Ganspan Clinic,Temporary Outreach,Pfizer,7/12/2021,Yes,5 days,150
+15,Francis Baard,Phokwane LM,Jan Kempdorp CHC Outreach 4 - Valspan Clinic,Temporary Outreach,Pfizer,7/12/2021,Yes,5 days,150
+16,Francis Baard,Phokwane LM,Hartswater (Connie Vorster) Hospital,PRIMARY VACCINATION SITE,Pfizer,7/12/2021,Yes,5 days,150
+17,Francis Baard,Phokwane LM,Hartswater (Connie Vorster) Hospital Hartswater Primary School,Temporary Outreach,J&J,7/12/2021,Yes,5 days,100
+18,Francis Baard,Phokwane LM,Hartswater (Connie Vorster) Outreach 2 - Kgomotso High School,Temporary Outreach,J&J,7/12/2021,Yes,5 days,100
+19,Francis Baard,Phokwane LM,Hartswater (Connie Vorster) Hospital Outreach 3 - Huis Theresa,Temporary Outreach,Pfizer,7/12/2021,Yes,5 days,100
+20,Francis Baard,Sol Plaatje LM,Robert Mangaliso Sobukwe Hospital,Primary Vaccination Site,Pfizer,7/12/2021,Yes,5 days,0
+21,Francis Baard,Sol Plaatje LM,Robert Mangaliso Sobukwe Hospital Outreach 1 - Harmony Home,Primary Vaccination Site,Pfizer,7/12/2021,Yes,5 days,400
+22,Francis Baard,Sol Plaatje LM,Mediclinic Gariep Hospital,PRIMARY VACCINATION SITE,Pfizer,7/12/2021,Yes,5 days,200
+23,Francis Baard,Sol Plaatje LM,Galeshewe Day Hospital,PRIMARY VACCINATION SITE,Pfizer,7/12/2021,Yes,5 days,150
+24,Francis Baard,Sol Plaatje LM,Northern Cape Specialised Psychiatric Hospital Outreach 1 - West End Specialised TB Hospital,Temporary Outreach,Pfizer,7/12/2021,Yes,5 days,150
+25,Francis Baard,Sol Plaatje LM,Ritchie Clinic Outreach 1 - Rietvale Community Hall,Temporary Outreach,Pfizer,7/12/2021,Yes,5 days,100
+26,Francis Baard,Sol Plaatje LM,Florianville (Floors) Clinic,PRIMARY VACCINATION SITE,J&J,7/12/2021,Yes,5 days,100
+27,Francis Baard,Sol Plaatje LM,Florianville (Floors) Clinic Outreach 1 - Newton Primary School,Temporary Outreach,J&J,7/12/2021,Yes,5 days,200
+28,Francis Baard,Sol Plaatje LM,Diamond Pavilion Clicks Pharmacy,PRIMARY VACCINATION SITE,Pfizer,7/12/2021,Yes,5 days,50
+0,Ngaka Modiri Molema DM,Ratlou,Ratlou CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+1,Ngaka Modiri Molema DM,Tswaing,Delareyville CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,200
+2,Ngaka Modiri Molema DM,Ramotshele Moiloa,Lehurutshe Hospital,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,200
+3,Ngaka Modiri Molema DM,Disobotla,Gelukspan Hospital,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,200
+4,Ngaka Modiri Molema DM,Tswaing,Ottosdal,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+5,Ngaka Modiri Molema DM,Disobotla,Itsoseng,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+6,Ngaka Modiri Molema DM,Mahikeng,Ramatlabama CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+7,Dr K Kaunda DM,Maqwassie hills,Tswelelang CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,80
+8,Dr K Kaunda DM,Maqwassie hills,Leeudoringstad CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,80
+9,Dr K Kaunda DM,Matlosana,Botshabelo CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+10,Dr K Kaunda DM,Matlosana,Delekile Khosa Clinic,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,80
+11,Dr K Kaunda DM,Matlosana,Grace Mokhomo Clinic,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,80
+12,Dr K Kaunda DM,JB Marks,Boiki Tlhapi CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,120
+13,Bojanala Platinum DM,Moretele,Mathibestad CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,600
+14,Bojanala Platinum DM,Kgetleng,Swartruggens CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,400
+15,Bojanala Platinum DM,Kgetleng,Koster Hospital,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,280
+16,Bojanala Platinum DM,Moses Kotane,Madikwe Clinic,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,240
+17,Bojanala Platinum DM,Rustenburg,Boitekong CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,480
+18,Bojanala Platinum DM,Madibeng,Bapong CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,240
+19,Dr K Kaunda DM,Matlosana,Klerksdorp/Tshepong Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,6 days,400
+20,Dr K Kaunda DM,JB Marks,Witrand Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,6 days,320
+21,Dr K Kaunda DM,Matlosana,West Vaal hospital,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,6 days,400
+22,Dr K Kaunda DM,Matlosana,N12 CHC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,6 days,240
+23,Dr K Kaunda DM,JB Marks,Ventersdorp CHC,Primary vaccination site,Pfizer,2021-06-01 00:00:00,yes,6 days,200
+24,Dr K Kaunda DM,Maqwassie Hills,Nic Bodenstein Hospital,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,6 days,240
+25,Ngaka Modiri Molema DM,Tswaing,Gen de la Rey Hospital,Primary vaccination site,Pfizer,2021-05-18 00:00:00,yes,6 days,160
+26,Ngaka Modiri Molema DM,Mahikeng,Mafikeng Provincial Hospital,Primary vaccination site,Pfizer,2021-05-18 00:00:00,yes,6 days,360
+27,Ngaka Modiri Molema DM,Ramotshele Moiloa,Zeerust Hospital,Primary vaccination site,Pfizer,2021-05-18 00:00:00,yes,6 days,120
+28,Bojanala Platinum DM,Rustenburg,Job Shimankana Tabane Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,6 days,600
+29,Bojanala Platinum DM,Madibeng,Brits Hospital,Primary vaccination site,Pfizer,2021-05-17 00:00:00,yes,6 days,600
+30,Bojanala Platinum DM,Moses Kotane,Moses Kotane Hospital,Primary vaccination site,Pfizer,2021-06-01 00:00:00,yes,6 days,600
+31,Bojanala Platinum DM,Rustenburg,Bafokeng CHC,Primary vaccination site,Pfizer,2021-05-31 00:00:00,yes,6 days,320
+32,Ruth Segomotsi Mompati DM,Naledi,Joe Morolong Memorial,Primary vaccination site,Pfizer,2021-05-18 00:00:00,yes,6 days,400
+33,Ruth Segomotsi Mompati DM,Taung,Sekhing CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,80
+34,Ruth Segomotsi Mompati DM,Lekwa Temane,Schweizer Reneke Hospital,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,200
+35,Ruth Segomotsi Mompati DM,Naledi,Stella CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,200
+36,Ruth Segomotsi Mompati DM,Kagisano Molopo,Ganyesa,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+37,Ruth Segomotsi Mompati DM,Mamusa,Bloemhof CHC,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,160
+38,Ruth Segomotsi Mompati DM,Taung,Taung Hosp,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,240
+39,Ruth Segomotsi Mompati DM,Mamusa,Christiana Hospital,Primary vaccination site,Pfizer,2021-06-14 00:00:00,yes,6 days,200
+0,Fezile Dabi,Moqhaka,Boitumelo Regional Hospital,Primary Vaccination site,Pfizer,7/1/2021,Yes,5 days,500.0
+1,Fezile Dabi,Ngwathe,Tokollo District Hospital,Primary Vaccination site,Pfizer,7/1/2021,Yes,5 days,150.0
+2,Lejweleputswa,Matjhabeng,Bongani Regional Hospital,Health Facility,Pfizer,7/1/2021,Yes,5 days,500.0
+3,Lejweleputswa,Matjhabeng,Katleho District Hospital,Health Facility,Pfizer,7/1/2021,Yes,5 days,200.0
+4,Lejweleputswa,Matjhabeng,Thusanong District Hospital,Health Facility,Pfizer,7/1/2021,Yes,5 days,240.0
+5,Lejweleputswa,Nala,Nala District Hospital,Health Facility,Pfizer,7/1/2021,Yes,5 days,180.0
+6,Lejweleputswa,Tswelopele,Mohau District Hospital,Health Facility,Pfizer,7/1/2021,Yes,5 days,90.0
+7,Lejweleputswa,Masilonyana,Winburg District Hospital,Health Facility,Pfizer,7/1/2021,Yes,5 days,100.0
+8,Lejweleputswa,Tokologo,Dealsville Clinic,Health Facility,Pfizer,7/1/2021,Yes,1 day,204.0
+9,Thabo Mofutsanyana,Dihlabeng,"Dihlabeng regional hospital, Bethlehem",Primary Vaccination site,Pfizer,7/1/2021,Yes,5 days,84.0
+10,Thabo Mofutsanyana,Mantsopa,Senoritha Nthlabathi DH,Primary Vaccination site,Pfizer,7/1/2021,Yes,5 days,60.0
+11,Thabo Mofutsanyana,Nketoana,Nketoana Hospital,Primary Vaccination site,Pfizer,7/1/2021,Yes,2 days,60.0
+12,Thabo Mofutsanyana,Phumelela,Phumelela District hospital,Primary Vaccination site,Pfizer,7/1/2021,Yes,1 day,60.0
+13,Thabo Mofutsanyana,Setsoto,Ficksburg town hall,Temporary outreach site,J&J,7/1/2021,Yes,,
+14,Thabo Mofutsanyana,Setsoto,Phutholoha hospital,Primary Vaccination site,Pfizer,7/1/2021,Yes,1 day,72.0
+15,Mangaung,Bloemfontein,Boikhucho,Primary vaccination site,Pfizer,7/1/2021,Yes,5 days,250.0
+16,Mangaung,Bloemfontein,MUCPP,Primary vaccination site,Pfizer,7/1/2021,Yes,5 days,100.0
+17,Mangaung,Bloemfontein,Universitas,Primary vaccination site,Pfizer,7/1/2021,Yes,5 days,1000.0
+18,Mangaung,Bloemfontein,Pelonomi,Primary vaccination site,Pfizer,7/1/2021,Yes,5 days,500.0
+19,Mangaung,Botshabelo,fs Botshabelo Hospital,Primary vaccination site,Pfizer,7/1/2021,Yes,5 days,300.0
+20,Mangaung,Thaba Nchu,fs Dr JS Moroka Hospital,Primary vaccination site,Pfizer,7/1/2021,Yes,5 days,300.0
+0,Amajuba DM,Dannhauser LM,kz Dannhauser CHC,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,200
+1,Amajuba DM,Newcastle LM,kz Madadeni Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,500
+2,Amajuba DM,Newcastle LM,kz Newcastle Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,400
+3,Amajuba DM,Emadlangeni LM,kz Niemeyer Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,150
+4,Amajuba DM,Newcastle LM,Lennoxton Primary School,Temporary Outreach Site,J&J,6/23/2021,Yes,2 days,500
+5,Amajuba DM,Newcastle LM,Osizweni Community Hall,Temporary Outreach Site,Pfizer,5/28/2021,Yes,7 days,200
+6,Amajuba DM,Newcastle LM,Osizweni Handicraft Centre,Temporary Outreach Site,Pfizer,6/17/2021,Yes,7 days,200
+7,Amajuba DM,Newcastle LM,Amajuba Education Centre,Temporary Outreach Site,J&J,6/23/2021,Yes,2 days,500
+8,eThekwini MM,eThekwini Sub-district,Addington Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,250
+9,eThekwini MM,eThekwini Sub-district,Clairwood Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,700
+10,eThekwini MM,eThekwini Sub-district,Inanda C Community Health Centre,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,200
+11,eThekwini MM,eThekwini Sub-district,Inkosi Albert Luthuli Central Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,550
+12,eThekwini MM,eThekwini Sub-district,King Edward VIII Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,450
+13,eThekwini MM,eThekwini Sub-district,Prince Mshiyeni Memorial Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,400
+14,eThekwini MM,eThekwini Sub-district,St. Mary's (Mariannhill) Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,200
+15,eThekwini MM,eThekwini Sub-district,Wentworth Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,5 days,300
+16,eThekwini MM,eThekwini Sub-district,Amanzimtoti Civic Centre,Temporary Outreach Site,Pfizer,5/17/2021,Yes,5 days,350
+17,eThekwini MM,eThekwini Sub-district,Bethsaida Ministries International,Temporary Outreach Site,Pfizer,5/31/2021,Yes,5 days,500
+18,eThekwini MM,eThekwini Sub-district,Kwamashu Indoor Sports Centre,Temporary Outreach Site,Pfizer,5/18/2021,Yes,5 days,400
+19,eThekwini MM,eThekwini Sub-district,Moses Mabhida People's Park,Temporary Outreach Site,Pfizer,5/17/2021,Yes,7 days,900
+20,eThekwini MM,eThekwini Sub-district,Mpumalanga Comm Hall,Temporary Outreach Site,Pfizer,5/31/2021,Yes,7 days,500
+21,eThekwini MM,eThekwini Sub-district,Pinetown Civic Centre,Temporary Outreach Site,Pfizer,5/17/2021,Yes,7 days,700
+22,eThekwini MM,eThekwini Sub-district,Tongaat Indoor Sports Centre,Temporary Outreach Site,Pfizer,5/24/2021,Yes,5 days,400
+23,eThekwini MM,eThekwini Sub-district,Umlazi D Hall,Temporary Outreach Site,Pfizer,5/31/2021,Yes,5 days,250
+24,eThekwini MM,eThekwini Sub-district,Watercrest Underground Parking,Temporary Outreach Site,Pfizer,5/31/2021,Yes,5 days,400
+25,eThekwini MM,eThekwini Sub-district,Amaoti Community Hall,Temporary Outreach Site,Pfizer,5/17/2021,Yes,5 days,200
+26,eThekwini MM,eThekwini Sub-district,"Mountainview Hall, Verulam",Temporary Outreach Site,Pfizer,5/31/2021,Yes,5 days,300
+27,eThekwini MM,eThekwini Sub-district,Nelson Mandela Youth Centre Chatsworth,Temporary Outreach Site,Pfizer,5/17/2021,Yes,5 days,700
+28,eThekwini MM,eThekwini Sub-district,Umbumbulu Hall,Temporary Outreach Site,Pfizer,5/17/2021,Yes,5 days,150
+29,eThekwini MM,eThekwini Sub-district,Umlazi K Hall,Temporary Outreach Site,Pfizer,5/31/2021,Yes,5 days,100
+30,eThekwini MM,eThekwini Sub-district,Dassenhoek Community hall,Temporary Outreach Site,Pfizer,6/7/2021,Yes,5 days,150
+31,Harry Gwala DM,uBuhlebezwe LM,kz Christ the King Hospital,Primary Vaccination Site,Pfizer,5/7/2021,Yes,6 days,350
+32,Harry Gwala DM,Greater Kokstad LM,kz East Griqualand and Usher Memorial Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,6 days,300
+33,Harry Gwala DM,Dr Nkosazana Dlamini-Zuma LM,kz Pholela CHC,Primary Vaccination Site,Pfizer,17/05/2021,Yes,5 days,300
+34,Harry Gwala DM,uMzimkhulu LM,kz Rietvlei Hospital,Primary Vaccination Site,Pfizer,17/05/2021,Yes,6 days,350
+35,Harry Gwala DM,Dr Nkosazana Dlamini-Zuma LM,kz St Apollinaris Hospital,Primary Vaccination Site,Pfizer,17/05/2021,Yes,5 days,350
+36,Harry Gwala DM,uMzimkhulu LM,kz St Margaret's TB MDR Hospital,Temporary Outreach Site,Pfizer,17/05/2021,Yes,6 days,300
+37,iLembe DM,KwaDukuza LM,KwaDukuza Hall,Temporary Outreach Site,Pfizer,02/07/2021,Yes,7 days,300
+38,iLembe DM,KwaDukuza LM,Lloyd Town Hall,Temporary Outreach Site,Pfizer,01/07/2021,Yes,2 days,100
+39,iLembe DM,Mandeni LM,Sundumbili CHC,Primary Vaccination Site,Pfizer,17/05/2021,Yes,7 days,150
+40,iLembe DM,Mandeni LM,Amatikulu training community hall,Temporary Outreach Site,Pfizer,19/07/2021,Yes,5 days,150
+41,iLembe DM,Mandeni LM,Sibusisiwe Community Hall,Temporary Outreach Site,Pfizer,12/07/2021,Yes,7 days,150
+42,iLembe DM,Maphumulo LM,Poyinandi Hall,Temporary Outreach Site,Pfizer,19/07/2021,Yes,3 days,100
+43,iLembe DM,Maphumulo LM,Dingizwe hall,Temporary Outreach Site,Pfizer,12/0/2021,Yes,3 days,100
+44,iLembe DM,Ndwedwe LM,Ndwedwe CHC,Primary Vaccination Site,Pfizer,17/05/2021,Yes,7 days,150
+45,King Cetshwayo DM,uMlalazi LM,Gingindlovu Clinic,Temporary Outreach Site,Pfizer,2021-06-05 00:00:00,Yes,3 days,100
+46,King Cetshwayo DM,uMhlathuze LM,Queen Nandi Regional Hospital,Primary Vaccination Site,Pfizer,7/1/2021,Yes,5 days,250
+47,King Cetshwayo DM,uMfolozi LM,Umbonambi Clinic,Temporary Outreach Site,Pfizer,6/29/2021,Yes,7 days,100
+48,King Cetshwayo DM,uMfolozi LM,Dondotha Clinic,Temporary Outreach Site,Pfizer,6/27/2021,Yes,7 days,100
+49,King Cetshwayo DM,uMfolozi LM,Cinci Clinic,Temporary Outreach Site,Pfizer,2021-06-29 00:00:00,Yes,7 days,100
+50,King Cetshwayo DM,uMfolozi LM,Ocilwane Clinic,Temporary Outreach Site,Pfizer,,Yes,7 days,100
+51,King Cetshwayo DM,uMfolozi LM,Ntambanan Clinic,Temporary Outreach Site,Pfizer,2021-06-29 00:00:00,Yes,7 days,100
+52,King Cetshwayo DM,uMhlathuze LM,Nseleni CHC,Primary Vaccination Site,Pfizer,24/5/2021,Yes,7 days,50
+53,King Cetshwayo DM,uMhlathuze LM,KwaLanga Creche,Temporary Outreach Site,Pfizer,7/6/2021,Yes,7 days,50
+54,King Cetshwayo DM,Mthonjaneni LM,Ndundulu Clinic,Temporary Outreach Site,Pfizer,6/22/2021,Yes,7 days,100
+55,King Cetshwayo DM,Mthonjaneni LM,Nogajuka Clinic,Temporary Outreach Site,Pfizer,6/23/2021,Yes,7 days,100
+56,King Cetshwayo DM,Mthonjaneni LM,KwaMagwaza Hospital,Temporary Outreach Site,Pfizer,6/28/2021,Yes,7 days,50
+57,King Cetshwayo DM,Mthonjaneni LM,Ndundulu Clinic,Temporary Outreach Site,Pfizer,6/30/2021,Yes,7 days,50
+58,King Cetshwayo DM,Mthonjaneni LM,KwaMagwaza Hospital,Temporary Outreach Site,Pfizer,6/30/2021,Yes,7 days,50
+59,King Cetshwayo DM,Mthonjaneni LM,KwaMagwaza Hospital,Temporary Outreach Site,Pfizer,6/18/2021,Yes,7 days,100
+60,Ugu DM,Ray Nkonyeni LM,Gamalakhe Community Health Centre,Primary Vaccination Site,Pfizer,6/28/2021,Yes,7 days,150
+61,Ugu DM,Umzumbe LM,Turton CHC - (Mfundo Arnold Lushaba CHC),Primary Vaccination Site,Pfizer,6/28/2021,Yes,7 days,150
+62,Ugu DM,Ray Nkonyeni LM,Port Shepstone Civic Centre,Temporary Outreach Site,Pfizer,6/30/2021,Yes,3 days,150
+63,Ugu DM,Umuziwabantu LM,Harding Town Hall,Temporary Outreach Site,Pfizer,7/1/2021,Yes,2 days,100
+64,Ugu DM,Umzumbe LM,Isibanini Hall,Temporary Outreach Site,Pfizer,7/1/2021,Yes,2 days,150
+65,uMgungundlovu DM,The Msunduzi LM,Imbalenhle CHC,Primary Vaccination Site,Pfizer,6/28/2021,Yes,5 days,100
+66,uMgungundlovu DM,The Msunduzi LM,Caluza Sports Ground,Temporary Outreach Site,Pfizer,6/28/2021,Yes,7 days,50
+67,uMgungundlovu DM,The Msunduzi LM,Royal Show Grounds,Temporary Outreach Site,Pfizer,6/28/2021,Yes,7 days,1450
+68,uMgungundlovu DM,Richmond LM,Richmond Chest Hospital,Primary Vaccination Site,Pfizer,6/28/2021,Yes,5 days,200
+69,uMgungundlovu DM,Richmond LM,Agricultural Hall,Temporary Outreach Site,Pfizer,6/28/2021,Yes,7 days,100
+70,Umkhanyakude DM,Umhlabuyalingana LM,Tembe Tribal Community Hall,Temporary Outreach Site,Pfizer,24/05/2021,Yes,5 days,350
+71,Umkhanyakude DM,Jozini LM,Msiyane Community Hall,Temporary Outreach Site,Pfizer,24/05/2021,Yes,5 days,300
+72,Umkhanyakude DM,Big 5 Hlabisa LM,Ihholo LaMakhosi Community Hall,Temporary Outreach Site,Pfizer,24/05/2021,Yes,5 days,150
+73,Umkhanyakude DM,Big 5 Hlabisa LM,Inkosi Mzondeni Community Hall,Temporary Outreach Site,Pfizer,16/05/2021,Yes,5 days,300
+74,Umkhanyakude DM,Jozini LM,Bhambanana Community Hall,Temporary Outreach Site,Pfizer,28/05/2021,Yes,6 days,300
+75,Umkhanyakude DM,Umhlabuyalingana LM,Vuka Mabasa Hall,Temporary Outreach Site,Pfizer,31/05/2021,Yes,5 days,300
+76,Umzinyathi DM,Msinga LM,Pomeroy CHC,Primary Vaccination Site,Pfizer,17/05/2021,Yes,7 days,150
+77,Umzinyathi DM,Msinga LM,CJ Mthethwa Hall,Temporary Outreach Site,J&J,22/06/2021,Yes,5 days,700
+78,Umzinyathi DM,Endumeni LM,Dundee Hospital,Primary Vaccination Site,J&J,2021-06-22 00:00:00,Yes,5 days,500
+79,Umzinyathi DM,Nquthu LM,Charles Johnson Memorial Hospital,Primary Vaccination Site,Pfizer,17/05/2021,Yes,7 days,150
+80,Umzinyathi DM,Msinga LM,Mkhuphulangwenya Hall,Temporary Outreach Site,Pfizer,27/05/2021,Yes,7 days,600
+81,uThukela DM,Inkosi Langalibalele LM,Wembezi Community Hall,Temporary Outreach site,Pfizer,7/1/2021,Yes,7 days,250
+82,uThukela DM,Inkosi Langalibalele LM,Weenen Community Hall,Temporary Outreach site,Pfizer,7/4/2021,Yes,7 days,250
+83,uThukela DM,Inkosi Langalibalele LM,Ntabamhlophe Thusong Centre,Temporary Outreach site,Pfizer,7/2/2021,Yes,7 days,250
+84,uThukela DM,Inkosi Langalibalele LM,Forderville Community Hall,Temporary Outreach site,Pfizer,6/30/2021,Yes,7 days,150
+85,uThukela DM,Okhahlamba LM,Tabhane Community Hall,Temporary Outreach site,Pfizer,7/3/2021,Yes,7 days,150
+86,Zululand DM,uPhongolo LM,Pongola Christian Centre,Temporary Outreach Site,Pfizer,30/06/2021,Yes,1 day,200
+87,Zululand DM,uPhongolo LM,Belgrade Hall,Temporary Outreach Site,Pfizer,05/07/2021,Yes,5 days,200
+88,Zululand DM,Abaqulusi LM,Mondlo A (2nd Dose),Temporary Outreach Site,Pfizer,12/07/2021,Yes,3 days,150
+89,Zululand DM,Ulundi LM,KwaNjojo Hall,Temporary Outreach Site,Pfizer,19.07.2021,Yes,2 days,150
+0,Nkangala DM,Steve Tshwete LM,Middelburg Hospital,Primary Vaccination Site,Pfizer,2021-05-17 00:00:00,Yes,5 days,120.0
+1,Nkangala DM,Steve Tshwete LM,Adelaide Tambo Hall,Temporary Outreach Site,Pfizer,5/28/2021,Yes,5 days,40.0
+2,Nkangala DM,Steve Tshwete LM,Eric Jiyane Hall,Temporary Outreach Site,Pfizer,6/24/2021,Yes,5 days,40.0
+3,Nkangala DM,Steve Tshwete LM,Nasareth Hall,Temporary Outreach Site,Pfizer,6/1/2021,Yes,5 days,40.0
+4,Nkangala DM,Steve Tshwete LM,Eastdene Hall,Temporary Outreach Site,Pfizer,6/4/2021,Yes,5 days,40.0
+5,Nkangala DM,Steve Tshwete LM,Rockdale Clinic,Primary Vaccination Site,J&J,7/19/2021,Yes,5 days,40.0
+6,Nkangala DM,Steve Tshwete LM,Sikhululiwe Clinic,Primary Vaccination Site,Pfizer,6/1/2021,Yes,5 days,40.0
+7,Nkangala DM,Steve Tshwete LM,CCM Church,Temporary Vaccination Site,Pfizer,6/14/2021,Yes,5 days,40.0
+8,Nkangala DM,Steve Tshwete LM,Hendrina Municipal Chamber,Temporary Vaccination Site,Pfizer,6/14/2021,Yes,5 days,40.0
+9,Nkangala DM,Steve Tshwete LM,Sydney Choma Hall,Temporary Vaccination Site,Pfizer,6/1/2021,Yes,5 days,40.0
+10,Nkangala DM,Steve Tshwete LM,Piet Tlou Hall,Temporary Vaccination Site,Pfizer,6/1/2021,Yes,5 days,40.0
+11,Nkangala DM,Steve Tshwete LM,Cynthia Murphy Hall,Temporary Vaccination Site,Pfizer,6/1/2021,Yes,5 days,40.0
+12,Nkangala DM,Steve Tshwete LM,Taaljard Cricketclub Hall,Temporary Vaccination Site,Pfizer,6/1/2021,Yes,5 days,40.0
+13,Nkangala DM,Steve Tshwete LM,Kwazamokuhle Clinic,Primary Vaccination Site,J&J,7/19/2021,Yes,5 days,40.0
+14,Nkangala DM,Emakhazeni LM,Siyathuthuka Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,40.0
+15,Nkangala DM,Emakhazeni LM,Beyers Naude Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,40.0
+16,Nkangala DM,Emakhazeni LM,Ben Gazi Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,40.0
+17,Nkangala DM,Emakhazeni LM,Machadodorp Clinic,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,40.0
+18,Nkangala DM,Emakhazeni LM,Sakhelwe Clinic,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,40.0
+19,Nkangala DM,Emakhazeni LM,Wonderfontein Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,40.0
+20,Nkangala DM,Dr JS Moroka LM,Ga-Phaahla Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,5 days,200.0
+21,Nkangala DM,Dr JS Moroka LM,Vaalbank Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,2 days,80.0
+22,Nkangala DM,Dr JS Moroka LM,Marapyane Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,3 days,120.0
+23,Nkangala DM,Dr JS Moroka LM,Matshiding Community Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,3 days,120.0
+24,Nkangala DM,Dr JS Moroka LM,Lefiso Community Hall,Temporary Outreach Site,Pfizer,5/27/2021,Yes,2 days,80.0
+25,Nkangala DM,Dr JS Moroka LM,Allmansdrift C Community Hall,Temporary Outreach Site,Pfizer,5/27/2021,Yes,2 days,80.0
+26,Nkangala DM,Dr JS Moroka LM,Nokaneng Community Hall,Temporary Outreach Site,Pfizer,5/31/2021,Yes,3 days,120.0
+27,Nkangala DM,Dr JS Moroka LM,Thabana Community Hall,Temporary Outreach Site,Pfizer,6/3/2021,Yes,2 days,80.0
+28,Nkangala DM,Dr JS Moroka LM,Pankop Community Hall,Temporary Outreach Site,Pfizer,5/31/2021,Yes,3 days,80.0
+29,Nkangala DM,Dr JS Moroka LM,Kameelrivier B Hall,Temporary Outreach Site,Pfizer,6/7/2021,Yes,2 days,80.0
+30,Nkangala DM,Dr JS Moroka LM,Phake Bethesda Church,Temporary Outreach Site,Pfizer,6/3/2021,Yes,2 days,80.0
+31,Nkangala DM,Dr JS Moroka LM,Katjibana Tribal Office Center,Temporary Outreach Site,Pfizer,6/3/2021,Yes,2 days,80.0
+32,Nkangala DM,Dr JS Moroka LM,Nkosini Cluster Community Hall,Temporary Outreach Site,Pfizer,6/9/2021,Yes,3 days,120.0
+33,Nkangala DM,Dr JS Moroka LM,Mmametlhake Hospital,Temporary Outreach Site,J&J,6/7/2021,Yes,3 days,120.0
+34,Nkangala DM,Dr JS Moroka LM,Witllagte Tribal Hall,Temporary Outreach Site,Pfizer,6/7/2021,Yes,2 days,80.0
+35,Nkangala DM,Dr JS Moroka LM,Digwale Community Hall,Temporary Outreach Site,Pfizer,6/14/2021,Yes,2 days,80.0
+36,Nkangala DM,Dr JS Moroka LM,Loding Dutch Reformed Church,Temporary Outreach Site,Pfizer,6/10/2021,Yes,2 days,80.0
+37,Nkangala DM,Dr JS Moroka LM,Seabe Mmutle School,Temporary Outreach Site,Pfizer,6/9/2021,Yes,2 days,80.0
+38,Nkangala DM,Dr JS Moroka LM,Pieterskraal Ndebele Church,Temporary Outreach Site,Pfizer,6/17/2021,Yes,2 days,80.0
+39,Nkangala DM,Dr JS Moroka LM,Troya CBC Church,Temporary Outreach Site,Pfizer,6/14/2021,Yes,2 days,80.0
+40,Nkangala DM,Dr JS Moroka LM,Allmansdrift B Hall,Temporary Outreach Site,Pfizer,6/14/2021,Yes,2 days,80.0
+41,Nkangala DM,Dr JS Moroka LM,Watervaal Social Grant PayPoint,Temporary Outreach Site,Pfizer,6/21/2021,Yes,3 days,120.0
+42,Nkangala DM,Dr JS Moroka LM,Makometsane Roman Catholic Church,Temporary Outreach Site,Pfizer,6/21/2021,Yes,2 days,80.0
+43,Nkangala DM,Dr JS Moroka LM,Senotlelo Multipurpose Centre,Temporary Outreach Site,Pfizer,6/21/2021,Yes,2 days,80.0
+44,Nkangala DM,Dr JS Moroka LM,Marathobolong Home base Care Centre,Temporary Outreach Site,Pfizer,6/24/2021,Yes,1 day,40.0
+45,Nkangala DM,Dr JS Moroka LM,Lefisoane Hall,Temporary Outreach Site,Pfizer,6/24/2021,Yes,1 day,40.0
+46,Nkangala DM,Dr JS Moroka LM,Wolwekraal Church Of God,Temporary Outreach Site,Pfizer,6/24/2021,Yes,1 day,40.0
+47,Nkangala DM,Dr JS Moroka LM,Mogononong Home base Care Centre,Temporary Outreach Site,Pfizer,6/25/2021,Yes,1 day,40.0
+48,Nkangala DM,Dr JS Moroka LM,Ga Maria Homebase Care Centre,Temporary Outreach Site,Pfizer,6/25/2021,Yes,1 day,40.0
+49,Nkangala DM,Dr JS Moroka LM,Magana Aids Project Centre,Temporary Outreach Site,Pfizer,6/28/2021,Yes,2 days,80.0
+50,Nkangala DM,Dr JS Moroka LM,Phake Rankaile Social Grant Pay Point,Temporary Outreach Site,Pfizer,6/28/2021,Yes,1 day,40.0
+51,Nkangala DM,Dr JS Moroka LM,Phake Ratlhagane Dutch Reformed Church,Temporary Outreach Site,Pfizer,6/29/2021,Yes,1 day,40.0
+52,Nkangala DM,Dr JS Moroka LM,Molapomogale,Temporary Outreach Site,Pfizer,6/28/2021,Yes,2 days,80.0
+53,Nkangala DM,Emalahleni LM,Witbank Hospital,Primary Outreach Site,Pfizer,5/17/2021,Yes,5 days,160.0
+54,Nkangala DM,Emalahleni LM,Impungwe Hospital,Primary Site,Pfizer,6/17/2021,Yes,5 days,80.0
+55,Nkangala DM,Emalahleni LM,Cosmos Private Hospital,Primary Site,Pfizer,5/31/2021,Yes,5 days,120.0
+56,Nkangala DM,Emalahleni LM,Klarinet CHC,,J&J,7/19/2021,Yes,,
+57,Nkangala DM,Victor Khanye LM,Botleng Extension 3 Clinic,Fixed outreach,J&J,7/19/2021,Yes,5 days,50.0
+58,Nkangala DM,Thembisile Hani LM,Thembalethu CHC,Primary Site,J&J,7/19/2021,Yes,5 days,90.0
+59,Nkangala DM,Thembisile Hani LM,Kwaggafontein CHC,Primary Site,Pfizer,6/30/2021,Yes,5 days,60.0
+60,Nkangala DM,Thembisile Hani LM,Kwaggafontein Community Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,3 days,100.0
+61,Nkangala DM,Thembisile Hani LM,Verena Community Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+62,Nkangala DM,Thembisile Hani LM,Vlaklaagte No 2 Centres,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+63,Nkangala DM,Thembisile Hani LM,Goederede (Pastor Modau),Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+64,Nkangala DM,Thembisile Hani LM,Boekenhoutheok (Endlini yabo Gogo),Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+65,Nkangala DM,Thembisile Hani LM,Mandela Community Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+66,Nkangala DM,Thembisile Hani LM,Zakheni Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+67,Nkangala DM,Thembisile Hani LM,Leratong Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,100.0
+68,Nkangala DM,Thembisile Hani LM,Lakloof Community Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,80.0
+69,Nkangala DM,Thembisile Hani LM,Wolvenkop Community Hall,Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,80.0
+70,Nkangala DM,Thembisile Hani LM,Tweefontein M (God is Able Church),Temporary Outreach Site,Pfizer,7/15/2021,Yes,1 day,80.0
+71,Nkangala DM,Emakhazeni LM,HA Grove Hospital,Primary Vaccination Site,Pfizer,7/15/2021,Yes,7 days,80.0
+72,Nkangala DM,Dr JS Moroka LM,Mmametlhake Hospital,Primary Vaccination Site,Pfizer,7/15/2021,Yes,5 days,200.0
+73,Nkangala DM,Thembisile Hani LM,KwaMhlanga Hospital,Primary Vaccination Site,J&J,2021-06 20,Yes,5 days,160.0
+74,Nkangala DM,Dr JS Moroka LM,Rhenosterkop Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+75,Nkangala DM,Dr JS Moroka LM,Seabe CHC,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+76,Nkangala DM,Dr JS Moroka LM,Greenside CHC,Fixed Outreach site,J&J,7/19/2021,Yes,5 days,200.0
+77,Nkangala DM,Dr JS Moroka LM,Marapyane CHC,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+78,Nkangala DM,Dr JS Moroka LM,Valschfontein Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+79,Nkangala DM,Dr JS Moroka LM,Siyabuswa CHC,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+80,Nkangala DM,Dr JS Moroka LM,De Beersput Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+81,Nkangala DM,Dr JS Moroka LM,Allemansdrift B Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+82,Nkangala DM,Emalahleni LM,Siphosesimbi CHC,Fixed Outreach site,J&J,7/19/2021,Yes,7 days,160.0
+83,Nkangala DM,Dr JS Moroka LM,Kalkfontein Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+84,Nkangala DM,Dr JS Moroka LM,Nokaneng CHC,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+85,Nkangala DM,Dr JS Moroka LM,Mmametlhake CHC,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+86,Nkangala DM,Steve Tshwete LM,Sr Mashiteng Clinic,Primary Vaccination Site,J&J,7/30/2021,Yes,7 days,120.0
+87,Nkangala DM,Dr JS Moroka LM,Bloedfontein Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+88,Nkangala DM,Dr JS Moroka LM,Lefisoane Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+89,Nkangala DM,Dr JS Moroka LM,Witlaagte Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+90,Nkangala DM,Dr JS Moroka LM,Phake Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+91,Ehlanzeni DM,Nkomazi LM,Tonga Hospital,,J&J,2021-07-19 00:00:00,Yes,5 days,160.0
+92,Nkangala DM,Dr JS Moroka LM,Wolwekraal Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+93,Nkangala DM,Dr JS Moroka LM,Haakdoringlaagte Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+94,Nkangala DM,Dr JS Moroka LM,Allemansdrift C CHC,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+95,Nkangala DM,Dr JS Moroka LM,Troya Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+96,Nkangala DM,Dr JS Moroka LM,Pieterskraal Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+97,Nkangala DM,Dr JS Moroka LM,Kameelrivier B Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+98,Nkangala DM,Dr JS Moroka LM,Kliplaatdrift Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+99,Nkangala DM,Dr JS Moroka LM,Leeufontein Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+100,Ehlanzeni DM,Thaba Chweu LM,Sabie Hospital,,J&J,2021-07-19 00:00:00,Yes,5 days,160.0
+101,Nkangala DM,Dr JS Moroka LM,Senzangakhona Digital Village Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,200.0
+102,Nkangala DM,Emakhazeni LM,Waterval Boven Gateway Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,40.0
+103,Nkangala DM,Emakhazeni LM,Belfast Gateway Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,40.0
+104,Nkangala DM,Emakhazeni LM,Machadodorp Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,80.0
+105,Nkangala DM,Emakhazeni LM,Siyathuthuka Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,80.0
+106,Nkangala DM,Emakhazeni LM,Sakhelwe Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,80.0
+107,Nkangala DM,Emakhazeni LM,Wonderfontein Clinic,Fixed Outreach site,Pfizer,7/15/2021,Yes,5 days,40.0
+108,Ehlanzeni DM,Bushbuckridge LM,Matikwana Hospital,Primary Vaccination Site,J&J,2021-07-19 00:00:00,Yes,5 days,
+109,Gert Sibande DM,Lekwa LM,Standerton Hospital,Primary Vaccination Site,J&J,2021-07-19 00:00:00,Yes,5 days,200.0
+110,Gert Sibande DM,Mkhondo LM,Piet Retief Hospital,Primary Vaccination Site,J&J,2021-06-23 00:00:00,Yes,5 days,200.0
+111,Gert Sibande DM,Chief Albert Luthuli LM,Embhuleni Hospital,,J&J,2021-07-19 00:00:00,Yes,5 days,200.0
+112,Gert Sibande DM,Dipaleseng,Nthoroane Clinic,Fixed Outreach site,J&J,2021-07-19 00:00:00,Yes,5 days,40.0
+113,Gert Sibande DM,Dr Pixley Ka Isaka Seme LM,Vukuzakhe Clinic,Primary Vaccination Site,J&J,2021-07-19 00:00:00,Yes,5 days,160.0
+114,Gert Sibande DM,Govan Mbeki LM,Sead Clinic,Fixed Outreach site,J&J,2021-07-19 00:00:00,Yes,5 days,80.0
+115,Gert Sibande DM,Msukaligwa LM,Breyten Clinic,,J&J,2021-07-19 00:00:00,Yes,5 days,160.0
+116,Ehlanzeni DM,Bushbuckridge LM,Mapulaneng Hospital,Primary Vaccination Site,Pfizer,2021-06-13 00:00:00,Yes,5 days,160.0
+117,Ehlanzeni DM,City of Mbombela,Themba Hospital,Primary Vaccination Site,J&J,2021-07-19 00:00:00,Yes,5 days,240.0
+118,Ehlanzeni DM,Nkomazi LM,Shongwe Hospital,Primary Vaccination Site,Pfizer,2021-05-17 00:00:00,Yes,5 days,80.0
+119,Ehlanzeni DM,City of Mbombela,Rob Ferreira Hospital,Primary Vaccination Site,Pfizer,2021-05-17 00:00:00,Yes,5 days,320.0
+120,Gert Sibande DM,Msukaligwa LM,Ermelo Hospital,Primary Vaccination Site,Pfizer,2021-05-17 00:00:00,Yes,5 days,160.0
+121,Gert Sibande DM,Govan Mbeki LM,Evander Hospital,Primary Vaccination Site,Pfizer,2021-06-13 00:00:00,Yes,5 days,240.0
+122,Ehlanzeni DM,Bushbuckridge LM,Tintswalo Hospital,Primary Vaccination Site,J&J,2021-06-23 00:00:00,Yes,5 days,
+123,Gert Sibande DM,Chief Albert Luthuli LM,Embhuleni Hospital,Primary Vaccination Site,J&J,2021-06-23 00:00:00,Yes,5 days,
+0,Capricorn District,Polokwane LM,Seshego Hospital,Primary Vaccination Site,Pfizer,6/8/2021,yes,6 days,500.0
+1,Capricorn District,Polokwane LM,Seshego Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+2,Capricorn District,Polokwane LM,Seshego Team B,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+3,Capricorn District,Polokwane LM,Polokwane Hospital,Primary Vaccination Site,Pfizer,5/18/2021,yes,6 days,600.0
+4,Capricorn District,Polokwane LM,Polokwane Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+5,Capricorn District,Polokwane LM,PolokwaneTeam B,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+6,Capricorn District,Polokwane LM,Mankweng Hospital,Primary Vaccination Site,Pfizer,5/18/2021,yes,6 days,600.0
+7,Capricorn District,Polokwane LM,Mankweng Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+8,Capricorn District,Polokwane LM,Mankweng Team B,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+9,Capricorn District,Molemole LM,Botlokwa Hospital,Primary Vaccination Site,Pfizer,6/9/2021,yes,6 days,500.0
+10,Capricorn District,Molemole LM,Botlokwa Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,250.0
+11,Capricorn District,Blouberg LM,Helene Franz Hospital,Primary Vaccination Site,Pfizer,6/2/2021,yes,6 days,400.0
+12,Capricorn District,Blouberg LM,Blouberg Team A,Mobile Outreach Site,Pfizer,7/12/2021,yes,4 days,200.0
+13,Capricorn District,Lepelle-Nkumpi LM,Lebowakgomo Hospital,Primary Vaccination Site,Pfizer,5/25/2021,yes,6 days,500.0
+14,Capricorn District,Lepelle-Nkumpi LM,Lebowakgomo Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+15,Capricorn District,Polokwane LM,WF Knobel Hospital,Primary Vaccination Site,Pfizer,6/8/2021,yes,6 days,500.0
+16,Capricorn District,Polokwane LM,Knobel team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,200.0
+17,Capricorn District,Lepelle-Nkumpi LM,Zebediela Hospital,Primary Vaccination Site,Pfizer,6/10/2021,yes,6 days,500.0
+18,Mopani District,Ba-Phalaborwa LM,Maphutha L Malatjie Hospital,Primary Vaccination Site,Pfizer,6/2/2021,Yes,6 days,600.0
+19,Mopani District,Ba-Phalaborwa LM,Maphutha L Malatjie 2,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+20,Mopani District,Greater Giyani LM,Nkhensani Hospital,Primary Vaccination Site,Pfizer,5/25/2021,Yes,6 days,600.0
+21,Mopani District,Greater Giyani LM,Nkhensani Team A,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+22,Mopani District,Greater Giyani LM,Nkhensani Team B,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+23,Mopani District,Greater Tzaneen LM,Letaba Hospital,Primary Vaccination Site,Pfizer,6/10/2021,Yes,6 days,600.0
+24,Mopani District,Greater Tzaneen LM,Letaba Team A,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+25,Mopani District,Greater Letaba LM,Kgapane Hospital,Primary Vaccination Site,Pfizer,5/25/2021,Yes,6 days,600.0
+26,Mopani District,Greater Letaba LM,Kgapane team A,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+27,Mopani District,Greater Letaba LM,Kgapane team B,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+28,Mopani District,Greater Tzaneen LM,Dr CN Phatudi Hospital,Primary Vaccination Site,Pfizer,5/17/2021,Yes,6 days,800.0
+29,Mopani District,Greater Tzaneen LM,CN Phatudi Team A,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+30,Mopani District,Maruleng LM,Sekororo Team A,Mobile Outreach Site,J&J,12/07/2021,Yes,4 days,
+31,Mopani District,Maruleng LM,Sekororo Hospital,Primary Vaccination Site,Pfizer,6/9/2021,Yes,6 days,600.0
+32,Mopani District,Greater Tzaneen LM,Van Velden Memorial (Tzaneen) Hospital,Primary Vaccination Site,Pfizer,6/9/2021,Yes,6 days,600.0
+33,Sekhukhune District,Fetakgomo Tubatse LM,Dilokong Hospital,Primary Vaccination Site,Pfizer,5/25/2021,Yes,6 days,500.0
+34,Sekhukhune District,Fetakgomo Tubatse LM,Dilokong team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+35,Sekhukhune District,Ephraim Mogale LM,Matlala Hospital,Primary Vaccination Site,Pfizer,6/2/2021,Yes,6 days,500.0
+36,Sekhukhune District,Ephraim Mogale LM,Matala Team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+37,Sekhukhune District,E Motsoaledi LM,Groblersdal Hospital,Primary Vaccination Site,Pfizer,5/24/2021,Yes,6 days,500.0
+38,Sekhukhune District,E Motsoaledi LM,Groblersdal Hospital,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+39,Sekhukhune District,Makhuduthamaga LM,Jane Furse Hospital,Primary Vaccination Site,Pfizer,6/9/2021,Yes,6 days,500.0
+40,Sekhukhune District,Makhuduthamaga LM,Jane Furse team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+41,Sekhukhune District,E Motsoaledi LM,Philadelphia Hospital,Primary Vaccination Site,Pfizer,6/9/2021,Yes,6 days,500.0
+42,Sekhukhune District,E Motsoaledi LM,Philadephia team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+43,Sekhukhune District,Makhuduthamaga LM,St Rita's Hospital,Primary Vaccination Site,Pfizer,5/18/2021,Yes,6 days,500.0
+44,Sekhukhune District,Makhuduthamaga LM,St Ritas team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+45,Sekhukhune District,Fetakgomo Tubatse LM,Mecklenburg Hospital,Primary Vaccination Site,Pfizer,6/8/2021,Yes,6 days,600.0
+46,Vhembe District,Collins Chabane LM,Malamulele Hospital,Primary Vaccination Site,Pfizer,5/26/2021,yes,7 days,600.0
+47,Vhembe District,Collins Chabane LM,Malamulele Team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+48,Vhembe District,Makhado LM,Elim Hospital,Primary Vaccination Site,Pfizer,6/8/2021,yes,6 days,600.0
+49,Vhembe District,Makhado LM,Elim Team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+50,Vhembe District,Makhado LM,Louis Trichardt Hospital,Primary Vaccination Site,Pfizer,6/8/2021,yes,6 days,400.0
+51,Vhembe District,Makhado LM,Louis Trichard Team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+52,Vhembe District,Musina LM,Messina Hospital,Primary Vaccination Site,Pfizer,6/3/2021,yes,6 days,400.0
+53,Vhembe District,Musina LM,Messina Team B,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+54,Vhembe District,Thulamela LM,Thohoyandou CHC,Primary Vaccination Site,Pfizer,6/8/2021,yes,7 days,600.0
+55,Vhembe District,Thulamela LM,Tshilidzini Team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+56,Vhembe District,Thulamela LM,Donald Fraser Hospital,Primary Vaccination Site,Pfizer,5/18/2021,yes,6 days,600.0
+57,Vhembe District,Thulamela LM,Donald Frase Team A,Mobile Outreach Site,J&J,7/12/2021,Yes,4 days,
+58,Vhembe District,Makhado LM,Siloam Hospital,Primary Vaccination Site,Pfizer,5/24/2021,yes,6 days,600.0
+59,Waterberg District,Thabazimbi LM,Thabazimbi Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+60,Waterberg District,Bela-Bela LM,Warmbaths Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+61,Waterberg District,Lephalale LM,Ellisras team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+62,Waterberg District,Lephalale LM,Wutpoort Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+63,Waterberg District,Mogalakwena LM,Mokopane Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+64,Waterberg District,Mogalakwena LM,Mokopane team B,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+65,Waterberg District,Mogalakwena LM,George Masebe Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+66,Waterberg District,Mogalakwena LM,Voortrekker Team A,Mobile Outreach Site,J&J,7/12/2021,yes,4 days,
+67,Mopani District,Greater Tzaneen LM,Van Velden Team A,Mobile Outreach site,J&J,12/07/2021,Yes,4 days,
+68,Sekhukhune District,Fetakgomo Tubatse LM,Mecklenburg team B,Mobile Outreach teams,J&J,7/12/2021,Yes,4 days,
+69,Vhembe District,Makhado LM,Siloam Team A,Mobile Outreach team,J&J,7/12/2021,Yes,4 days,
+70,Waterberg District,Mogalakwena LM,FH odendala team A,Mobile Outreach team,J&J,7/12/2021,yes,4 days,
